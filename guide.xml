@@ -213,48 +213,6 @@
     <display-name lang="he">Junior [IL]</display-name>
     <url>http://www.hot.net.il</url>
   </channel>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="ערוץ הקניות">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="ערוץ הקניות">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919195000 +0300" channel="ערוץ הקניות">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919195000 +0300" stop="20180919200000 +0300" channel="ערוץ הקניות">
-    <title lang="he">T.V שופ אמריקה</title>
-    <desc lang="he">מוצרי הטלוויזיה הנמכרים ביותר בעולם. הפטנטים הכי מדליקים, הטכנולוגיה הכי חדישה וסיפורי ההצלחה הכי גדולים שיש. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919210000 +0300" channel="ערוץ הקניות">
-    <title lang="he">T.V שופ אמריקה</title>
-    <desc lang="he">מוצרי הטלוויזיה הנמכרים ביותר בעולם. הפטנטים הכי מדליקים, הטכנולוגיה הכי חדישה וסיפורי ההצלחה הכי גדולים שיש. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919220000 +0300" channel="ערוץ הקניות">
-    <title lang="he">T.V שופ אמריקה</title>
-    <desc lang="he">מוצרי הטלוויזיה הנמכרים ביותר בעולם. הפטנטים הכי מדליקים, הטכנולוגיה הכי חדישה וסיפורי ההצלחה הכי גדולים שיש. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180919230000 +0300" channel="ערוץ הקניות">
-    <title lang="he">T.V שופ אמריקה</title>
-    <desc lang="he">מוצרי הטלוויזיה הנמכרים ביותר בעולם. הפטנטים הכי מדליקים, הטכנולוגיה הכי חדישה וסיפורי ההצלחה הכי גדולים שיש. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919230000 +0300" stop="20180919235000 +0300" channel="ערוץ הקניות">
-    <title lang="he">T.V שופ אמריקה</title>
-    <desc lang="he">מוצרי הטלוויזיה הנמכרים ביותר בעולם. הפטנטים הכי מדליקים, הטכנולוגיה הכי חדישה וסיפורי ההצלחה הכי גדולים שיש. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919235000 +0300" stop="20180920000000 +0300" channel="ערוץ הקניות">
-    <title lang="he">מוצר היום של מחר</title>
-    <desc lang="he">מוצר בהנחה מיוחדת עד חצות או עד גמר המלאי. דיל אטרקטיבי לרכישת אחד ממוצרי הערוץ, 5 דקות לפני כל שעה עגולה. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
   <programme start="20180920000000 +0300" stop="20180920005500 +0300" channel="ערוץ הקניות">
     <title lang="he">T.V שופ אמריקה</title>
     <desc lang="he">מוצרי הטלוויזיה הנמכרים ביותר בעולם. הפטנטים הכי מדליקים, הטכנולוגיה הכי חדישה וסיפורי ההצלחה הכי גדולים שיש. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
@@ -1004,53 +962,6 @@
     <title lang="he">בישולים</title>
     <desc lang="he">כלים ואביזרים שיעשו לכם את המטבח. כל הטרנדים והעיצובים החדישים ביותר של המותגים המובילים בתחום הבישול והאפייה. סרטוני המוצרים המוצעים בערוץ הקניות ועוד מאות מוצרים נוספים מחכים לך ב- WWW.21TV.CO.IL(n)</desc>
     <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919100000 +0300" channel="KAN 11">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919160000 +0300" channel="KAN 11">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919160000 +0300" stop="20180919195800 +0300" channel="KAN 11">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919195800 +0300" stop="20180919210000 +0300" channel="KAN 11">
-    <title lang="he">חדשות חג עם מיכל רשף</title>
-    <desc lang="he">חדשות החג בהגשת מיכל רשף. כ' סמויות(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919215000 +0300" channel="KAN 11">
-    <title lang="he">נטע, כפרה עליה</title>
-    <desc lang="he">נטע ברזילי, זוכת האירוויזיון, משתפת ברגעים המותחים, המרגשים והבלתי נשכחים מהשבועיים וחצי שבילתה בליסבון, בשילוב צילומים מההכנות, החזרות וערבי התחרות, בדרך לניצחון המוחץ בתחרות השירה הגדולה באירופה(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919215000 +0300" stop="20180919221800 +0300" channel="KAN 11">
-    <title lang="he">הפסיכולוגית 10. נקמה</title>
-    <desc lang="he">פרק 10. נקמה: שרונה מקליטה את תותי אומרת דברים שלא ייאמרו. אפי ויועץ התקשורת שלו, מסתבר, רואים אירוויזיון ביחד. חבילה בעלת צורה מוזרה שמגיעה לאפי, מעוררת את סקרנותה של תותי. כ' עב(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919221800 +0300" stop="20180919224800 +0300" channel="KAN 11">
-    <title lang="he">פגישה עם רוני קובן דניאלה לונדון</title>
-    <desc lang="he">דניאלה לונדון-דקל, בתו של ירון לונדון, חשפה את חייה במשך שנים בטורים המאויירים האישיים שלה, בסדרה הקומית יום האם ובהצגה "עובדים על הזוגיות", ובכל זאת היא מתעקשת שרק נדמה לנו שאנחנו מכירים אותה. כ' עב(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919224800 +0300" stop="20180919225300 +0300" channel="KAN 11">
-    <title lang="he">מבזק</title>
-    <desc lang="he">מבזק חדשות. כתוביות סמויות(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919225300 +0300" stop="20180919232500 +0300" channel="KAN 11">
-    <title lang="he">בואו לאכול איתי פרק 18</title>
-    <desc lang="he">חמישה חובבי בישול זרים זה לזה, מתחרים מי מהם הוא הבשלן האולטימטיבי. כל אחד יארח את הקבוצה לארוחת ערב חגיגית בביתו, ויקבל בסופה ציונים. עם שי אביבי. כ' עב(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919232500 +0300" stop="20180920000200 +0300" channel="KAN 11">
-    <title lang="he">איפה אתה חי? עונה 2 פרק 3</title>
-    <desc lang="he">דרמה. פרק 3: חי ודפי תקועים במרתף ובוחנים מחדש את מערכת היחסים שלהם. בכור מוצא דרך לחלץ אותם אבל השלושה נעצרים בדרכם לשדה התעופה ונחשדים בהברחה. אסתי מגלה שדפי עם חי בבוכרה. כ' עב(n)</desc>
-    <category lang="he">סדרה</category>
   </programme>
   <programme start="20180920000200 +0300" stop="20180920005200 +0300" channel="KAN 11">
     <title lang="he">נטע, כפרה עליה</title>
@@ -1830,59 +1741,6 @@
     <title lang="he">המכולה 4. הקשבה</title>
     <desc lang="he">תרבות ואומנות. מה קורה בתרבות המקומית? מה חדש ביצירה הישראלית? מי האנשים הצבעוניים שעומדים מאחוריה? איתי מאוטנר יסביר דרך עולם המחול, גרפיטי, עיצוב, פיסול ועוד. פרק 4: הקשבה. עם רננה רז. כ' עב(n)</desc>
     <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919020000 +0300" stop="20180919050000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:45(n)</desc>
-  </programme>
-  <programme start="20180919050000 +0300" stop="20180919060000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:45(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919090000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919090000 +0300" stop="20180919120000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919150000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919150000 +0300" stop="20180919180000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919195800 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919195800 +0300" stop="20180919210000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">המהדורה המרכזית</title>
-    <desc lang="he">מהדורת החדשות המרכזית בשידור חי עם יונית לוי ודני קושמרו עם כל אירועי היום והשבוע. כ' סמויות(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919220000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">דייט ראשון עונה חדשה!</title>
-    <desc lang="he">תכנית הדייטים המצליחה בעולם. כל פרק עוקב אחרי זוגות הנפגשים במסעדה אמיתית לדייט ראשון כשעשרות מצלמות המרושתות ברחבי המסעדה עוקבות אחריהם בכל רגע. כ' עב'(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180919230000 +0300" channel="Channel 12 [IL]">
-    <title lang="he">אהבה ושקרים פרק 3</title>
-    <desc lang="he">שלושה זוגות יתארחו באולפן אבל רק אחד מהם הוא זוג אמיתי. פאנל של סלברטאים ינסו לזהות מבין שלושת הזוגות מי הזוג האמיתי. משתתפים - פאולה וליאון רוזנברג, הדר לוי ומיכל אמדורסקי. כ' עב'(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919230000 +0300" stop="20180919234500 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יש לה את זה שמלת חתונה</title>
-    <desc lang="he">נטלי, צעירה מאשקלון שחולמת להיות מעצבת אופנה, מגיעה לראיון עבודה אצל הסטייליסט של הכוכבות. באותו היום מגיעה לשם שירז, הכוכבת של המדינה, למדידות אחרונות לשמלת הכלה שלה, שהופכות בגלל נטלי לאסון. כ' עב'(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919234500 +0300" stop="20180920005500 +0300" channel="Channel 12 [IL]">
-    <title lang="he">יש לה את זה ליאור והדיילת</title>
-    <desc lang="he">ביום העבודה הראשון שלה, נטלי נקלעת למשבר בזוגיות של שירז וליאור שנוחתים מירח דבש חלומי ומתכוננים להשקת קמפיין חדש של מיליונים. ורד, מיליארדרית רווקה שהייתה הבוסית של נטלי באשקלון, מגיעה לת"א. כ' עב'(n)</desc>
-    <category lang="he">סדרה</category>
   </programme>
   <programme start="20180920005500 +0300" stop="20180920015000 +0300" channel="Channel 12 [IL]">
     <title lang="he">יש לה את זה מס הכנסה</title>
@@ -2665,55 +2523,6 @@
     <desc lang="he">חיים אתגר, קורין גדעון ונבחרת הכתבים יביאו לכם זוויות חדשות ומעניינות על אנשי היום. מגזין אקטואלי יומי עם כל מה שצריך לדעת על האנשים שכולם מדברים עליהם. כ' סמ'(n)</desc>
     <category lang="he">אקטואליה וחדשות</category>
   </programme>
-  <programme start="20180919000000 +0300" stop="20180919040000 +0300" channel="Channel 13 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="Channel 13 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="Channel 13 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="Channel 13 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="Channel 13 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="Channel 13 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב- 19:58(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919210300 +0300" channel="Channel 13 [IL]">
-    <title lang="he">המהדורה המרכזית נטעלי שם טוב</title>
-    <desc lang="he">מהדורת החדשות המרכזית של ערוץ 13 עם נטעלי שם טוב(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919210300 +0300" stop="20180919215900 +0300" channel="Channel 13 [IL]">
-    <title lang="he">אמבולנס משמרת בסיכון גבוה</title>
-    <desc lang="he">כאשר הצוות מקבל קריאה לחולה במצב של שוק ספטי עם חיידק מזהם, הם מוצאים עצמם במשמרת של סיכון גבוה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919215900 +0300" stop="20180919231000 +0300" channel="Channel 13 [IL]">
-    <title lang="he">אף פעם לא מאוחר 2 פול גז!</title>
-    <desc lang="he">הערב, מה היה קורה אם לסבתא היו גלגלים? הבנות עולות על מסלול הקארטינג ואף אחד לא בטוח! וגם - מה יקרה כשהחלום של שרה'לה והסיוט של ציפי ייפגשו כששרה'לה עולה לבמה לשירה בציבור?(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919231000 +0300" stop="20180919235100 +0300" channel="Channel 13 [IL]">
-    <title lang="he">המשפיעים עדינה בר שלום</title>
-    <desc lang="he">מסע עם הרבנית עדינה בר שלום, בתו של גדול הדור הרב עובדיה יוסף שבזכותה חרדים יצאו אל האקדמיה והשתלבו במעגל העבודה. נצא לתחנות בחייה - החל מעברה שהפך אותה לאחת הדמויות המשפיעות בישראל, עם הפנים קדימה(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919235100 +0300" stop="20180920003600 +0300" channel="Channel 13 [IL]">
-    <title lang="he">המועדון: פרקים חדשים שחר חסון וחברים</title>
-    <desc lang="he">שחר חסון במופע סטנד אפ חסר מעצורים מאלתר ומארח את יונתן ברק, דובדבני וקובץ' וקארין פז(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
   <programme start="20180920003600 +0300" stop="20180920014800 +0300" channel="Channel 13 [IL]">
     <title lang="he">מלחמת המינים</title>
     <desc lang="he">תכנית בידור בהנחיית שלום אסייג וליטל שוורץ. פאנל הקומיקאים באולפן יחולק לשתי קבוצות. כל המחלוקות בין שני המינים יועלו ושני המחנות יתנצחו ביניהם, יעקצו, יאשימו וינסו להגיע להסכמים(n)</desc>
@@ -3416,47 +3225,6 @@
     <title lang="he">משחקי השף 3 חוגגים שנה טעימה!</title>
     <desc lang="he">חוגגים שנה חדשה עם משחקי השף! הערב, מה קורה כשאשתו של מושיק מגיעה לאודישן? זה הולך להיות האודישן המרגש של העונה! וגם - הכירו את המתמודד הטבעוני שהוציא את השפים מהכלים!(n)</desc>
     <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919020000 +0300" stop="20180919060000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919211000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">חדשות עשר עם טלי מורנו</title>
-    <desc lang="he">מהדורת החדשות המרכזית של ערוץ עשר בהגשת טלי מורנו - עם הדיווחים הבלעדיים, שורת פרשני חדשות עשר, סדרות הכתבות והמוספים המיוחדים "אנליסט" עם מתן חודורוב ו"ברקוד" עם נגה ניר-נאמן. כתוביות סמויות(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919211000 +0300" stop="20180919222000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">הקברניטים גולדה מאיר</title>
-    <desc lang="he">אישה אחת בין בכירי המפלגה, אישה אחת בין גנרלים, ראש הממשלה גולדה מאיר מול ההחלטות הגורליות ביותר שהובילו את ישראל מיוהרה אל התרסקות(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919222000 +0300" stop="20180919225500 +0300" channel="Channel 14 [IL]">
-    <title lang="he">בלילה ייהרג לי עוד חיל</title>
-    <desc lang="he">סרטו של אריק וייס - פרויקט תיעודי רחב היקף שיביא את סיפור הקזת הדם שלאחר מלחמת יום הכיפורים במובלעת הסורית שברמת הגולן. מי הם נופלי המובלעת הזאת? ומהו סיפורם של הלוחמים שמעולם לא עזבו אותה? כ' עב(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919225500 +0300" stop="20180920000000 +0300" channel="Channel 14 [IL]">
-    <title lang="he">להישאר בחיים</title>
-    <desc lang="he">סיפורו של טייס ישראלי שבשנת 1982 נופל בשבי בלבנון ונחלץ משם בעזרת ילד פלסטיני. כתוביות בעברית(n)</desc>
-    <category lang="he">סרט</category>
-    <country>סטיבן דורף</country>
   </programme>
   <programme start="20180920000000 +0300" stop="20180920000500 +0300" channel="Channel 14 [IL]">
     <title lang="he">חדשות עשר</title>
@@ -4243,51 +4011,6 @@
     <desc lang="he">אורלי וגיא בתכנית חדשה. כתוביות סמויות(n)</desc>
     <category lang="he">אקטואליה וחדשות</category>
   </programme>
-  <programme start="20180919000000 +0300" stop="20180919060000 +0300" channel="AMC">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="AMC">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="AMC">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="AMC">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919201500 +0300" channel="AMC">
-    <title lang="he">יומני כוכבים בראד פיט</title>
-    <desc lang="he">גבר של שלל תסרוקות ושלל נשים יפות מהוליווד: בראד פיט הפך לשחקן קולנוע אגדי של העידן המודרני(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919201500 +0300" stop="20180919210000 +0300" channel="AMC">
-    <title lang="he">הבן פרק 9</title>
-    <desc lang="he">דרמה במערב הפרוע בכיכובו של פירס ברוסנן. פרק 9: אלי הצעיר נאלץ לסמוך על בן-ברית מוזר בכדי לשרוד בשנת 1849. בשנת 1915, עברו של אלי גורם לו לבחור בדרך שעלולה לסכסך בינו לבין פיניאס(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919214500 +0300" channel="AMC">
-    <title lang="he">הבן פרק 10</title>
-    <desc lang="he">דרמה במערב הפרוע בכיכובו של פירס ברוסנן. חזרה בלתי צפויה עומדת בפני השבט בשנת 1849. בשנת 1915, תוכניתו של אלי לגבי העתיד מציבה את פיט בפני החלטה גורלית ביותר לגבי נאמנותו(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919214500 +0300" stop="20180919232000 +0300" channel="AMC">
-    <title lang="he">96 דקות</title>
-    <desc lang="he">מתח. חיי שני נערים עבריינים מצטלבים לילה אחד עם חייהן של שתי בחורות, לאחר שהבחורים חוטפים מכונית שבה יושבות הצעירות מאחור. עם: בריטני סנואו, איוון רוס, בימוי: איימי לגוס(n)</desc>
-    <date>2011</date>
-    <category lang="he">סרט</category>
-    <country>ארה"ב</country>
-  </programme>
-  <programme start="20180919232000 +0300" stop="20180920012500 +0300" channel="AMC">
-    <title lang="he">שוגר היל</title>
-    <desc lang="he">מותחן פשע משובח בכיכובו של ווסלי סנייפס. סוחר סמים מרובע הארלם בניו יורק שמחליט לעזוב את חיי הפשע, כדי להתחיל חיים חדשים עם חברתו, מגלה שזה לא פשוט כפי שסבר תחילה. בימוי לאון איצ'אסו(n)</desc>
-    <date>1993</date>
-    <category lang="he">סרט</category>
-    <country>ארה"ב</country>
-  </programme>
   <programme start="20180920012500 +0300" stop="20180920030000 +0300" channel="AMC">
     <title lang="he">הנהר המקולל</title>
     <desc lang="he">פעולה. קבוצה שוכרת את שירותיו של מדריך שילווה אותם בשייט בנהר זאמבזי באפריקה - אבל מה שמתחיל כחופשה חלומית, הופך במהרה לסיוט... עם: סטיבן שלן, ליסה אליף, ג'ון טרלסקי, בימוי: מייקל שרדר(n)</desc>
@@ -4835,51 +4558,6 @@
     <desc lang="he">קומדיה. גבר החוזר לעיר הולדתו לאחר היעדרות ארוכה, נעזר באביו המנוכר כדי לסייע לחבריו לזכות באליפות ה"קרלינג" העולמית, ולשנות את חייהם. עם: פול גרוס, מולי פרקר, בימוי: פול גרוס(n)</desc>
     <category lang="he">סרט</category>
     <country>קנדה 2002</country>
-  </programme>
-  <programme start="20180919000000 +0300" stop="20180919060000 +0300" channel="VIVA">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="VIVA">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="VIVA">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="VIVA">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919201500 +0300" channel="VIVA">
-    <title lang="he">יומני כוכבים בראד פיט</title>
-    <desc lang="he">גבר של שלל תסרוקות ושלל נשים יפות מהוליווד: בראד פיט הפך לשחקן קולנוע אגדי של העידן המודרני(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919201500 +0300" stop="20180919210000 +0300" channel="VIVA">
-    <title lang="he">הבן פרק 9</title>
-    <desc lang="he">דרמה במערב הפרוע בכיכובו של פירס ברוסנן. פרק 9: אלי הצעיר נאלץ לסמוך על בן-ברית מוזר בכדי לשרוד בשנת 1849. בשנת 1915, עברו של אלי גורם לו לבחור בדרך שעלולה לסכסך בינו לבין פיניאס(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919214500 +0300" channel="VIVA">
-    <title lang="he">הבן פרק 10</title>
-    <desc lang="he">דרמה במערב הפרוע בכיכובו של פירס ברוסנן. חזרה בלתי צפויה עומדת בפני השבט בשנת 1849. בשנת 1915, תוכניתו של אלי לגבי העתיד מציבה את פיט בפני החלטה גורלית ביותר לגבי נאמנותו(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919214500 +0300" stop="20180919232000 +0300" channel="VIVA">
-    <title lang="he">96 דקות</title>
-    <desc lang="he">מתח. חיי שני נערים עבריינים מצטלבים לילה אחד עם חייהן של שתי בחורות, לאחר שהבחורים חוטפים מכונית שבה יושבות הצעירות מאחור. עם: בריטני סנואו, איוון רוס, בימוי: איימי לגוס(n)</desc>
-    <date>2011</date>
-    <category lang="he">סרט</category>
-    <country>ארה"ב</country>
-  </programme>
-  <programme start="20180919232000 +0300" stop="20180920012500 +0300" channel="VIVA">
-    <title lang="he">שוגר היל</title>
-    <desc lang="he">מותחן פשע משובח בכיכובו של ווסלי סנייפס. סוחר סמים מרובע הארלם בניו יורק שמחליט לעזוב את חיי הפשע, כדי להתחיל חיים חדשים עם חברתו, מגלה שזה לא פשוט כפי שסבר תחילה. בימוי לאון איצ'אסו(n)</desc>
-    <date>1993</date>
-    <category lang="he">סרט</category>
-    <country>ארה"ב</country>
   </programme>
   <programme start="20180920012500 +0300" stop="20180920030000 +0300" channel="VIVA">
     <title lang="he">הנהר המקולל</title>
@@ -5429,71 +5107,6 @@
     <category lang="he">סרט</category>
     <country>קנדה 2002</country>
   </programme>
-  <programme start="20180919001000 +0300" stop="20180919031000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919031000 +0300" stop="20180919051000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919051000 +0300" stop="20180919060000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919090000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919090000 +0300" stop="20180919120000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919150000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919150000 +0300" stop="20180919180000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919201000 +0300" channel="Viva plus">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:10(n)</desc>
-    <category lang="he">אקטואליה וחדשות</category>
-  </programme>
-  <programme start="20180919201000 +0300" stop="20180919210500 +0300" channel="Viva plus">
-    <title lang="he">ונדטה פרק 61</title>
-    <desc lang="he">אויה מנסה להודיע למהמט יום לפני החתונה שבורג'ו זייפה את ההיריון, ובורג'ו עושה הכול כדי למנוע זאת. מרווה שומעת שפלין החליטה לבוא לחתונה ומחליטה לבוא גם. מהמט מבקש מארזו שתשכנע אותו לא להתחתן(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919210500 +0300" stop="20180919220000 +0300" channel="Viva plus">
-    <title lang="he">הכלה מאיסטנבול פרק 59</title>
-    <desc lang="he">סורייה נענית להזמנה של אדם ודילארה ויוצאת לאכול איתם. היא פוגשת במסעדה את פארוק ופורץ ביניהם ויכוח. פארוק קובע להיפגש עם סורייה, אך עורך הדין שלה מגיע במקומה ומגיש לו את תביעת הגירושים(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180919225500 +0300" channel="Viva plus">
-    <title lang="he">אימא פרק 78</title>
-    <desc lang="he">לאחר הלוויה של סינאן, שולה מציעה למסור לזיינפ את טורנה בתנאי שתבטל את התלונה נגד ג'נגיז. זיינפ רוצה גם את חסן. הן מחליטות שזיינפ תשכור להם דירה קרובה וטורנה תוכל להתראות עם חסן ככל שתרצה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919225500 +0300" stop="20180919235000 +0300" channel="Viva plus">
-    <title lang="he">רסיסים פרק 52</title>
-    <desc lang="he">פרק 52: האזל מודה בפני ג'יהאן שהיא זאת שהציתה את השרפה בגלל קנאתה בג'נסו. האזל סובלת מהכווייה שבידה ומובהלת לבית החולים לאחר שמתפתח אצלה זיהום. רחמי מגייס את שירותיה של אלב, מכרה ותיקה שלו(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919235000 +0300" stop="20180920010100 +0300" channel="Viva plus">
-    <title lang="he">אני והיא פרק 14</title>
-    <desc lang="he">פרק 14: דו גיונג נוסע מטעם העבודה ורוצה שהא יונג תבוא אתו, אך היא לא מקבלת יום חופש. החבר'ה מפברקים חטיפה ומעמידים את כולם על הרגליים. התנהגותה של סו גיונג מביאה את ג'ין סאנג לנחש שהוא האב(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
   <programme start="20180920010100 +0300" stop="20180920015500 +0300" channel="Viva plus">
     <title lang="he">ונדטה פרק 61</title>
     <desc lang="he">אויה מנסה להודיע למהמט יום לפני החתונה שבורג'ו זייפה את ההיריון, ובורג'ו עושה הכול כדי למנוע זאת. מרווה שומעת שפלין החליטה לבוא לחתונה ומחליטה לבוא גם. מהמט מבקש מארזו שתשכנע אותו לא להתחתן(n)</desc>
@@ -6028,46 +5641,6 @@
     <title lang="he">ויוה + נשוב לשדר בשעה 9:20</title>
     <desc lang="he">ויוה+ - שידורנו יתחדשו בשעה 9:20(n)</desc>
   </programme>
-  <programme start="20180919020000 +0300" stop="20180919060000 +0300" channel="MUSIC 24">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="MUSIC 24">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="MUSIC 24">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="MUSIC 24">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="MUSIC 24">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919205000 +0300" channel="MUSIC 24">
-    <title lang="he">אחד על אחד דיקלה</title>
-    <desc lang="he">אירוח. הזמרת דקלה חושפת בפני עינת ארליך את הקשיים בהם היא נתקלה כאישה בתעשיית המוסיקה ואיך המשפחה מקבלת את היותה זמרת ויוצרת מצליחה(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919205000 +0300" stop="20180919222000 +0300" channel="MUSIC 24">
-    <title lang="he">20 הגדולים אריק איינשטיין VS שלמה ארצי</title>
-    <desc lang="he">ראש בראש של שני הזמרים הגדולים(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919222000 +0300" stop="20180919235000 +0300" channel="MUSIC 24">
-    <title lang="he">20 הגדולים להקות צבאיות</title>
-    <desc lang="he">הלהיטים הגדולים של יוצאי הלהקות הצבאיות(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919235000 +0300" stop="20180920011500 +0300" channel="MUSIC 24">
-    <title lang="he">20 הגדולים 1998</title>
-    <desc lang="he">חוזרים אחורה בזמן ללהיטים של שנת 1998(n)</desc>
-    <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
   <programme start="20180920011500 +0300" stop="20180920050000 +0300" channel="MUSIC 24">
     <title lang="he">טיסת לילה</title>
     <desc lang="he">תנו לנו לטפל בהפרעת השינה שלכם. הדקו חגורות, כבו טלפונים והמריאו איתנו אל הלא נודע. כאן יודעים איך הלילה מתחיל אבל לא ברור איך הוא נגמר. קליפים נדירים ומוסיקה טובה אל תוך הלילה(n)</desc>
@@ -6217,52 +5790,6 @@
     <title lang="he">מיקס ישראלי</title>
     <desc lang="he">מיטב הלהיטים הישראליים. מיקס להיטים עכשוויים לצד שירים נוסטלגים(n)</desc>
     <category lang="he">תרבות בידור ומוסיקה</category>
-  </programme>
-  <programme start="20180919020000 +0300" stop="20180919060000 +0300" channel="Travel Channel [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="Travel Channel [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919160000 +0300" channel="Travel Channel [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919160000 +0300" stop="20180919200000 +0300" channel="Travel Channel [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919211000 +0300" channel="Travel Channel [IL]">
-    <title lang="he">החלום ההודי 2 פרק 4</title>
-    <desc lang="he">פרק 4: זהו השבוע האחרון לשהותה של הקבוצה בהודו. שילה יוצאת לדייט עם איש עסקים הודי, ליונל יוצא לסיור אחרון בשכונה ומבקר אצל החייט שתפר לו חולצה, אמנדה נקשרת לכלבלב רחוב, והדיירים עורכים מסיבת פרידה(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919211000 +0300" stop="20180919220000 +0300" channel="Travel Channel [IL]">
-    <title lang="he">מרוסיה לאיראן: לחצות את הגבול פרק 5</title>
-    <desc lang="he">תיור. פרק 5: לוויסון ווד יוצא למסע בן כ-4,200 ק"מ, החוצה את רכס ההרים הקווקזי, מדרום רוסיה ועד איראן. בחלקו האחרון של המסע, לוויסון עובר באזור מלחמה בדרך לגבול של ארמניה, וחוצה את איראן(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180919223000 +0300" channel="Travel Channel [IL]">
-    <title lang="he">עיר ב-48 שעות 5, חדש! פרק 3</title>
-    <desc lang="he">השחקן והבמאי הבריטי ריצ'רד איאודה יוצא לחופשות בזק של 48 שעות ברחבי העולם. ריצ'רד איואדה וג'ו לייסט נוסעים לאמסטרדם. הם מנסים את הנדנדה הגבוהה באירופה, שטים בתעלות, מבקרים ברייקסמוזיאום ועוד. כ' עב'(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919223000 +0300" stop="20180919225500 +0300" channel="Travel Channel [IL]">
-    <title lang="he">סקופילד בדרום אפריקה, חדש! פרק 3</title>
-    <desc lang="he">מנחה הטלוויזיה פיליפ סקופילד נוסע יחד עם אשתו למסע בדרום אפריקה. פיליפ סקופילד מסיים את המסע בדרום אפריקה יחד עם אשתו בביקור בלתי נשכח בספארי, שם הוא עוזר במבצע נגד ציד בלתי חוקי של קרנפים(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919225500 +0300" stop="20180919234500 +0300" channel="Travel Channel [IL]">
-    <title lang="he">אמריקה בהליכה 2. גוואטמלה</title>
-    <desc lang="he">תיור. 2. גוואטמלה: לויסון ווד מבקר בגוואטמלה, העיר הקטלנית ביותר במרכז אמריקה, חוצה נופים מרהיבים ומגיע לנקודת האמצע במסע שלו(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919234500 +0300" stop="20180920001500 +0300" channel="Travel Channel [IL]">
-    <title lang="he">מסלול אלטרנטיבי 4. אוורגליידס, פלורידה</title>
-    <desc lang="he">תיור. 4. אוורגליידס, פלורידה: מאט הראנק לומד את אומנות ציד הצפרדעים הלילי, פוגש מקרוב בחיות הבר המסוכנות ביותר בפלורידה, ויוצא למסע דיג עם מדריך הדיג המצטיין, סטיב האף(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
   </programme>
   <programme start="20180920001500 +0300" stop="20180920010000 +0300" channel="Travel Channel [IL]">
     <title lang="he">עדיף מאוחר מאף פעם 3. סיאול, דרום קוריאה</title>
@@ -6982,94 +6509,6 @@
     <title lang="he">נשוב לשדר ב-06:00</title>
     <desc lang="he">נשוב לשדר ב-06:00(n)</desc>
   </programme>
-  <programme start="20180919090000 +0300" stop="20180919120000 +0300" channel="Arutz20">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919150000 +0300" channel="Arutz20">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919150000 +0300" stop="20180919180000 +0300" channel="Arutz20">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="Arutz20">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919205200 +0300" channel="Arutz20">
-    <title lang="he">שולי רנד מארח</title>
-    <desc lang="he">שולי רנד מארח את אהרון רזאל לשיחה אינטימית על יצירה, השראה, ויהדות, ובמהלכה הם מבצעים יחד שירים מובילים בתרבות הישראלית. רזאל מספר על יחסיו המורכבים עם אחיו יונתן רזאל, ועל הורדת הכיפה בצבא והחזרה בתשובה(n)</desc>
-  </programme>
-  <programme start="20180919205200 +0300" stop="20180919215000 +0300" channel="Arutz20">
-    <title lang="he">סיפורה של מדינה</title>
-    <desc lang="he">הצדעה לפסטיבל הזמר המזרחי שהתקיים לראשונה לפני 45 שנה בדיוק. במהלך התכנית נבחן את תחרויות הזמר השונות שהתקיימו בעשורים הראשונים למדינה: פסטיבל הזמר והפזמון, פסטיבל הזמר החסידי ופסטיבל הזמר המזרחי(n)</desc>
-  </programme>
-  <programme start="20180919215000 +0300" stop="20180919222000 +0300" channel="Arutz20">
-    <title lang="he">הולכים לפני המחנה</title>
-    <desc lang="he">סידרה תיעודית חדשה העוקבת אחר חייהם ומעשיהם של כמה מהדמויות המרכזיות בציבוריות הדתית והלאומית, אשר כל אחד בדרכו, חולל מהפכים ופרץ דרכים חדשות בעולמות של ההלכה, ציונות ולאום. והפעם סיפורו של הרב עובדיה יוסף(n)</desc>
-  </programme>
-  <programme start="20180919222000 +0300" stop="20180919225000 +0300" channel="Arutz20">
-    <title lang="he">הולכים לפני המחנה</title>
-    <desc lang="he">עונה חדשה לסדרה המופת על סיפור חייהם של גדולי הרבנים בדורנו. והפעם: הרב ישראל אבוחצירא, הבבא סאלי, גדול מקובלי ישראל והתפוצות בעת החדשה. במהלך הפרק נחשף, בין השאר, לעולמות ההלכתיים הלא מוכרים של הצדיק הנסתר(n)</desc>
-  </programme>
-  <programme start="20180919225000 +0300" stop="20180919234100 +0300" channel="Arutz20">
-    <title lang="he">עמוד האש</title>
-    <desc lang="he">רדיפת יהודי גרמניה מגיעה לשיא ב''ליל הבדולח''. בימים ובאוקיאנוסים שטות אניות שאינן יכולות להוריד את נוסעיהן - פליטים יהודיים - בשום נמל. בריטניה מפרסמת את ''הספר הלבן'' שבו היא מתכחשת למעשה ל''הצהרת בלפור''(n)</desc>
-  </programme>
-  <programme start="20180919234100 +0300" stop="20180919234100 +0300" channel="Arutz20">
-    <title lang="he">חכמים בלילה</title>
-    <desc lang="he">הרב חיים נבון משוחח עם ד''ר חיים זיכרמן, חוקר בתכנית מחקר על דת ומדינה ובפרויקט החרדים במכון הישראלי לדמוקרטיה, על החברה החרדית ומגמות בחברה החרדית(n)</desc>
-  </programme>
-  <programme start="20180919234100 +0300" stop="20180920000800 +0300" channel="Arutz20">
-    <title lang="he">חכמים בלילה</title>
-    <desc lang="he">הרב חיים נבון משוחח עם ד''ר חיים זיכרמן, חוקר בתכנית מחקר על דת ומדינה ובפרויקט החרדים במכון הישראלי לדמוקרטיה, על החברה החרדית ומגמות בחברה החרדית(n)</desc>
-  </programme>
-  <programme start="20180920000800 +0300" stop="20180920005600 +0300" channel="Arutz20">
-    <title lang="he">מסע לילי</title>
-    <desc lang="he">צבי יחזקאלי פוגש את הרב יוסף וליס, שגדל כחילוני והיום הוא מנכל ארגון ''ערכים''. צבי והרב יעברו יחד בתחנות חייו ויבררו מה גרם לרב לחזור בתשובה ולעמוד בראש ארגון ''''ערכים'''' שמטרתו קירוב חילוניים לדת(n)</desc>
-  </programme>
-  <programme start="20180920005600 +0300" stop="20180920020900 +0300" channel="Arutz20">
-    <title lang="he">ראשון בחלל</title>
-    <desc lang="he">הסרט עוקב אחר האסטרונאוט הישראלי הראשון, אל''מ אילן רמון, מראשית אימוניו ועד מותו בטרם עת, עם התרסקות מעבורת החלל ''קולומביה'' מעל שמי טקסס ב,1 בפברואר 2003. במשך יותר מ-4 שנים תיעד צוות הטלוויזיה הישראלית את דרכו של אילן(n)</desc>
-  </programme>
-  <programme start="20180920020900 +0300" stop="20180920024900 +0300" channel="Arutz20">
-    <title lang="he">גיבורים בעל כורחם</title>
-    <desc lang="he">פרופ' ג'ורג' וקנין עוסק בהצלת חיים, מנתח מוח מבריק שיום אחד גילה שחייו שלו בסכנה. החלפת התפקידים, ואיך לא נשברים כאשר מכירים כל כך טוב את שני הצדדים(n)</desc>
-  </programme>
-  <programme start="20180920024900 +0300" stop="20180920025400 +0300" channel="Arutz20">
-    <title lang="he">חלון ליהדות</title>
-    <desc lang="he">שיעור בנוא סוכה(n)</desc>
-  </programme>
-  <programme start="20180920025400 +0300" stop="20180920032300 +0300" channel="Arutz20">
-    <title lang="he">חלון ליהדות</title>
-    <desc lang="he">שיעור ביהדות(n)</desc>
-  </programme>
-  <programme start="20180920032300 +0300" stop="20180920035600 +0300" channel="Arutz20">
-    <title lang="he">חלון ליהדות</title>
-    <desc lang="he">איש ואישה זכו שכינה בינהם. צריך לדעת שבלעדי בן או בת הזוג אני לא שלם. האהבה והדרך להתאחדות היא ע''י זיכוך ועבודת המידות(n)</desc>
-  </programme>
-  <programme start="20180920035600 +0300" stop="20180920042700 +0300" channel="Arutz20">
-    <title lang="he">חלון ליהדות</title>
-    <desc lang="he">הביטוי העיקרי למצוות האהבה היא לספר בשבחו-להחמיא. אהבה היא מצווה ואנו מחויבים בה בכל מצב רוח. לא הקפדן אוהב!(n)</desc>
-  </programme>
-  <programme start="20180920042700 +0300" stop="20180920050300 +0300" channel="Arutz20">
-    <title lang="he">חיים שיש בהם</title>
-    <desc lang="he">שיעור בנושא יהדות(n)</desc>
-  </programme>
-  <programme start="20180920050300 +0300" stop="20180920053100 +0300" channel="Arutz20">
-    <title lang="he">חי ברשת</title>
-    <desc lang="he">תכנית רשת בהגשת אלירז שדה ובהשתתפות בלוגרים, עיתונאים ואושיות רשת שיביאו את כל הסיפורים הבוערים ברשתות החברתיות הקשורים ביהדות ומורשת(n)</desc>
-  </programme>
-  <programme start="20180920053100 +0300" stop="20180920060000 +0300" channel="Arutz20">
-    <title lang="he">חלון ליהדות</title>
-    <desc lang="he">שיעור ביהדות(n)</desc>
-  </programme>
-  <programme start="20180920060000 +0300" stop="20180920062900 +0300" channel="Arutz20">
-    <title lang="he">הרמב''ם היומי</title>
-    <desc lang="he">הרמב''ם היומי - מצוות(n)</desc>
-  </programme>
   <programme start="20180920062900 +0300" stop="20180920065400 +0300" channel="Arutz20">
     <title lang="he">מעשה שהיה</title>
     <desc lang="he">בכל תוכנית ,יחד עם הילדים באולפן, נשמע סיפורים מהתנ''ך והתלמוד, סיפורים של פעם שמתחברים לעולמם העכשווי של הילדים(n)</desc>
@@ -7674,56 +7113,137 @@
     <title lang="he">חדשות סיכום היום</title>
     <desc lang="he">מהדורת חדשות המסכמת את אירועי היום(n)</desc>
   </programme>
-  <programme start="20180919000000 +0300" stop="20180919060000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
+  <programme start="20180925232000 +0300" stop="20180925232000 +0300" channel="Arutz20">
+    <title lang="he">ריקלין וסג''ל</title>
+    <desc lang="he">תכנית אקטואליה בידורית בהובלת אראל סג''ל ושמעון ריקלין. התכנית עוסקת בכל ענייני היום ובנושאים שמאחורי החדשות בשילוב אורחים באולפן(n)</desc>
   </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
+  <programme start="20180925232000 +0300" stop="20180926001500 +0300" channel="Arutz20">
+    <title lang="he">ריקלין וסג''ל</title>
+    <desc lang="he">תכנית אקטואליה בידורית בהובלת אראל סג''ל ושמעון ריקלין. התכנית עוסקת בכל ענייני היום ובנושאים שמאחורי החדשות בשילוב אורחים באולפן(n)</desc>
   </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
+  <programme start="20180926001500 +0300" stop="20180926010000 +0300" channel="Arutz20">
+    <title lang="he">היום הזה עם אמיר איבגי</title>
+    <desc lang="he">היום הזה עם אמיר איבגי, תכנית אקטואליה העוסקת באירועי היום. פוליטיקה, כלכלה, צרכנות, תרבות וגם הכותרות שלא סיפרו לכם עליהן בשום מקום(n)</desc>
   </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
+  <programme start="20180926010000 +0300" stop="20180926025500 +0300" channel="Arutz20">
+    <title lang="he">האולפן הפתוח</title>
+    <desc lang="he">בועז גולן וחבר הפנאליסטים עונים על שאלות הצופים ודנים בנושאים הבוערים של היום(n)</desc>
   </programme>
-  <programme start="20180919200000 +0300" stop="20180919203000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">במטבח עם אמא 2 6. אמירם טובים</title>
-    <desc lang="he">בישול. 7. השף אבי ביטון מארח כוכבים ואת האימהות שלהם. יחד, הם מעלים זיכרונות ילדות ומבשלים מתכונים מבית אמא. והפעם: הסטנדאפיסט אמירם טובים ואמו, נעמי, מכינים פלפלים ממולאים(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
+  <programme start="20180926025500 +0300" stop="20180926032700 +0300" channel="Arutz20">
+    <title lang="he">חלון ליהדות</title>
+    <desc lang="he">שיעור ביהדות(n)</desc>
   </programme>
-  <programme start="20180919203000 +0300" stop="20180919210000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">טעם של פעם 10. שנות ה-90, חלק ב'</title>
-    <desc lang="he">בישול. 10. שנות ה-90, חלק ב': מיקי שמו ורוני דלומי אופים את המאפים הכי אהובים, מימי קום המדינה ועד ימינו. והיום, לכבוד שנות ה-90: קרואסון שוקולד, עוגיות מלוחות וטארט פירות(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
+  <programme start="20180926032700 +0300" stop="20180926035300 +0300" channel="Arutz20">
+    <title lang="he">אורות</title>
+    <desc lang="he">שיעור בנושא יהדות(n)</desc>
   </programme>
-  <programme start="20180919210000 +0300" stop="20180919212500 +0300" channel="_ערוץ האוכל">
-    <title lang="he">איטליה של סילביה קולוקה פרק 5</title>
-    <desc lang="he">פרק 5: סילביה מטיילת באיזורים הכפריים של מרכז איטליה ומכינה "פריטו מיסטו", מנת פירות ים מטוגנים ופריכים, וופל איטלקי מלוח הנקרא "פיצלה", ריקוטה ביתית וטארט ריקוטה, שוקולד ודובדבנים(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
+  <programme start="20180926035300 +0300" stop="20180926041600 +0300" channel="Arutz20">
+    <title lang="he">אורות</title>
+    <desc lang="he">שיעור בנושא יהדות(n)</desc>
   </programme>
-  <programme start="20180919212500 +0300" stop="20180919220000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">לבשל עם ריימונד בלאן 6. צלייה</title>
-    <desc lang="he">בישול. 6. צלייה: השף ריימון בלאן בעל כוכבי המישלן מתרגם את הידע המקצועי הרב שצבר למטבח הבייתי. הפעם - צלייה: רוסטביף, דג טורבוט צלוי, פסיון שלם צלוי, אננס מקורמל בתנור(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
+  <programme start="20180926041600 +0300" stop="20180926050000 +0300" channel="Arutz20">
+    <title lang="he">חלון ליהדות</title>
+    <desc lang="he">המשפט המפורסם ביותר בעולם הוא משפט שלמה אך מה המסר עבורנו במשפט זה והיכן טמונה החכמה העמוקה של שלמה בסיפור זה(n)</desc>
   </programme>
-  <programme start="20180919220000 +0300" stop="20180919230000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">קלאסי מרי ברי, חדש! 7. מסיבת חג המולד של מרי ברי</title>
-    <desc lang="he">מרי ברי עושה את מה שהיא יודעת טוב מכולם - טוויסטים מעולים על קלאסיקות קולינריות אהובות. הפעם: מרי מארחת אנשים שונים ומכינה איתם מתכונים שלה ושלהם ביחד, לקראת מסיבת חג המולד. כ' עב(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
+  <programme start="20180926050000 +0300" stop="20180926053000 +0300" channel="Arutz20">
+    <title lang="he">חי ברשת</title>
+    <desc lang="he">תכנית רשת בהגשת אלירז שדה ובהשתתפות בלוגרים, עיתונאים ואושיות רשת שיביאו את כל הסיפורים הבוערים ברשתות החברתיות הקשורים ביהדות ומורשת(n)</desc>
   </programme>
-  <programme start="20180919230000 +0300" stop="20180919233000 +0300" channel="_ערוץ האוכל">
-    <title lang="he">פוד פורן פרק 12</title>
-    <desc lang="he">השף מייקל צ'רנאו יוצא למסע אחרי המנות המצולמות ביותר. הפעם הוא טועם המבורגר בלחמניית נודלס בניו יורק, טוסטונס קובניים מסורתיים במיאמי, עוגת גלידה עם וויסקי בסן פרנסיסקו ובופה מושחת במיוחד בלאס וגאס(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
+  <programme start="20180926053000 +0300" stop="20180926060000 +0300" channel="Arutz20">
+    <title lang="he">חלון ליהדות</title>
+    <desc lang="he">שיעור ביהדות(n)</desc>
   </programme>
-  <programme start="20180919233000 +0300" stop="20180920001500 +0300" channel="_ערוץ האוכל">
-    <title lang="he">איינסלי טועם אוכל רחוב 7. מדריד</title>
-    <desc lang="he">בישול. 7. מדריד: השף איינסלי הריוט יוצא למסע בעקבות אוכל רחוב ברחבי העולם. במדריד תמצאו את כל-טוב ספרד מבחינת מצרכים. השפע הטיב והטריות רק יגרמו לכם לרצות לבשל ו... בעיקר לאכול(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
+  <programme start="20180926060000 +0300" stop="20180926064000 +0300" channel="Arutz20">
+    <title lang="he">שלומי וסתם וחגי הספורטאי</title>
+    <desc lang="he">שלומי וסתם וחגי הספורטאי(n)</desc>
+  </programme>
+  <programme start="20180926064000 +0300" stop="20180926065900 +0300" channel="Arutz20">
+    <title lang="he">שלומי וסתם</title>
+    <desc lang="he">סתם רוצה להכיר לשלומי חבר טוב ושלומי מופתע ''מה יש לסתם עוד חבר טוב'' בעזרת ורדינון הם הופכים לחבורה ולומדים ש ''כל ישראל חברים''(n)</desc>
+  </programme>
+  <programme start="20180926065900 +0300" stop="20180926070200 +0300" channel="Arutz20">
+    <title lang="he">חלון ליהדות</title>
+    <desc lang="he">שיעור בנושא שמיני עצרת ושמחת תורה(n)</desc>
+  </programme>
+  <programme start="20180926070200 +0300" stop="20180926074600 +0300" channel="Arutz20">
+    <title lang="he">חלון ליהדות</title>
+    <desc lang="he">המשפט המפורסם ביותר בעולם הוא משפט שלמה אך מה המסר עבורנו במשפט זה והיכן טמונה החכמה העמוקה של שלמה בסיפור זה(n)</desc>
+  </programme>
+  <programme start="20180926074600 +0300" stop="20180926081100 +0300" channel="Arutz20">
+    <title lang="he">מיקס ישראלי</title>
+    <desc lang="he">מיקס ישראלי(n)</desc>
+  </programme>
+  <programme start="20180926081100 +0300" stop="20180926082400 +0300" channel="Arutz20">
+    <title lang="he">מיקס ישראלי</title>
+    <desc lang="he">מיקס ישראלי(n)</desc>
+  </programme>
+  <programme start="20180926082400 +0300" stop="20180926085800 +0300" channel="Arutz20">
+    <title lang="he">מבשלים מהספרים</title>
+    <desc lang="he">מיכל אנסקי מארחת מחבר ספר בישול ולומדת על המתכונים ועל הסיפורים מאחוריהם. הפעם מיכל מארחת את אורי בורי שיכין סביצ'ה אינטיאס, רפי אדר שיכין סקלופ לימונה ודניאל זך עם סלט חצילים(n)</desc>
+  </programme>
+  <programme start="20180926085800 +0300" stop="20180926093600 +0300" channel="Arutz20">
+    <title lang="he">ארוחה לשבת</title>
+    <desc lang="he">העיתונאי ומגיש הטלוויזיה קובי אריאלי, חובב בישול ידוע,מארח את השף שאול בן-אדרת ויחד הם יכינו סלט קיסר, סול מונייר ומדליוני פילה עם בקר(n)</desc>
+  </programme>
+  <programme start="20180926093600 +0300" stop="20180926100000 +0300" channel="Arutz20">
+    <title lang="he">עינת שרוף</title>
+    <desc lang="he">כוהנת השירה בציבור עינת שרוף נחשפת לקסם הגליל, לומדת להכיר את פניו הרבים ואת שפע אוצרותיו, המושכים רבים להקים בו את ביתם. והפעם, היא מבקרת בטבריה ובנצרת עילית(n)</desc>
+  </programme>
+  <programme start="20180926100000 +0300" stop="20180926105500 +0300" channel="Arutz20">
+    <title lang="he">ריקלין וסג''ל</title>
+    <desc lang="he">תכנית אקטואליה בידורית בהובלת אראל סג''ל ושמעון ריקלין. התכנית עוסקת בכל ענייני היום ובנושאים שמאחורי החדשות בשילוב אורחים באולפן(n)</desc>
+  </programme>
+  <programme start="20180926105500 +0300" stop="20180926125000 +0300" channel="Arutz20">
+    <title lang="he">האולפן הפתוח</title>
+    <desc lang="he">בועז גולן וחבר הפנאליסטים עונים על שאלות הצופים ודנים בנושאים הבוערים של היום(n)</desc>
+  </programme>
+  <programme start="20180926125000 +0300" stop="20180926135000 +0300" channel="Arutz20">
+    <title lang="he">דידי ב</title>
+    <desc lang="he">דידי הררי בתכנית מוסיקלית חדשה מארח את הזמרים הגדולים בישראל. והפעם: עידן עמדי בראיון מיוחד, שבו הוא חושף את כל הסודות והסיפורים שלא הכרתם עליו וגם הופעה חיה באולפן עם כל הלהיטים הגדולים(n)</desc>
+  </programme>
+  <programme start="20180926135000 +0300" stop="20180926141900 +0300" channel="Arutz20">
+    <title lang="he">המשפיעים עם שלמור שטרוזמן</title>
+    <desc lang="he">סדרה דוקומנטרית מרהיבה על אנשי העסקים, היזמים והחברות ששינו את חיינו. והערב, הסיפור האמיתי של ריד הופמן, היזם היהודי שעומד מאחורי הרשת החברתית לינקדין, שעוזרת ל -400 מיליון אנשים ליצור קשרים עסקיים וגם למצוא עבודה(n)</desc>
+  </programme>
+  <programme start="20180926141900 +0300" stop="20180926151900 +0300" channel="Arutz20">
+    <title lang="he">החוט המקשר</title>
+    <desc lang="he">תכנית אירוח בהנחיית גולן אזולאי, המארח מדי שבוע פאנלים מעניינים של אנשים מתחום משותף שעברו מסע רוחני מפותל העובר בין דתות שונות, בארצות רחוקות, בחזרה אל חיק היהדות(n)</desc>
+  </programme>
+  <programme start="20180926151900 +0300" stop="20180926155300 +0300" channel="Arutz20">
+    <title lang="he">מיני שף</title>
+    <desc lang="he">השף אביב משה מבשל עם ילדים ומאתגר אותם במטבח. היום בתוכנית משדרגים את ארוחת הבוקר(n)</desc>
+  </programme>
+  <programme start="20180926155300 +0300" stop="20180926164100 +0300" channel="Arutz20">
+    <title lang="he">ככה אופים את זה</title>
+    <desc lang="he">הקונדיטור אורן בקר מעביר סדנת קונדיטוריה עם אג'נדה חברתית. הפעם הוא מארח את שרון איילון וגייל ציבליו שמתייצבות מול הטארטים ולומדות כל מה שצריך לדעת על בצק פריך(n)</desc>
+  </programme>
+  <programme start="20180926164100 +0300" stop="20180926171200 +0300" channel="Arutz20">
+    <title lang="he">עושים עסק עונה 2</title>
+    <desc lang="he">מיה לנדאו, מומחית לעסקים, מלווה ומייעצת לארבעה בעלי עסקים קטנים בדרך למימוש החלום לעסק עובד ומצליח(n)</desc>
+  </programme>
+  <programme start="20180926171200 +0300" stop="20180926181500 +0300" channel="Arutz20">
+    <title lang="he">תקומה</title>
+    <desc lang="he">בשעה שתיים בצהריים של יום הכיפורים, באוקטובר 1973, נפתחת במפתיע המתקפה של צבאות מצרים וסוריה. ישראל, העומדת לפני אפשרות של תבוסה מוחצת, מצליחה במאמץ צבאי אדיר להדוף את התוקפים. אבל המלחמה נרשמת בזיכרון הלאומי כשבר גדול(n)</desc>
+  </programme>
+  <programme start="20180926181500 +0300" stop="20180926190000 +0300" channel="Arutz20">
+    <title lang="he">היום הזה עם אמיר איבגי</title>
+    <desc lang="he">היום הזה עם אמיר איבגי, תכנית אקטואליה העוסקת באירועי היום. פוליטיקה, כלכלה, צרכנות, תרבות וגם הכותרות שלא סיפרו לכם עליהן בשום מקום(n)</desc>
+  </programme>
+  <programme start="20180926190000 +0300" stop="20180926195800 +0300" channel="Arutz20">
+    <title lang="he">ריקלין וסג''ל</title>
+    <desc lang="he">תכנית אקטואליה בידורית בהובלת אראל סג''ל ושמעון ריקלין. התכנית עוסקת בכל ענייני היום ובנושאים שמאחורי החדשות בשילוב אורחים באולפן(n)</desc>
+  </programme>
+  <programme start="20180926195800 +0300" stop="20180926210000 +0300" channel="Arutz20">
+    <title lang="he">חדשות 20</title>
+    <desc lang="he">מהדורת החדשות המרכזית של ערוץ 20 עם דנה סומברג בשידור חי. כתבי ופרשני ערוץ 20 באולפן ובשטח, עם כל אירועי היום הבוערים(n)</desc>
+  </programme>
+  <programme start="20180926210000 +0300" stop="20180926230000 +0300" channel="Arutz20">
+    <title lang="he">האולפן הפתוח</title>
+    <desc lang="he">בועז גולן וחבר הפנאליסטים עונים על שאלות הצופים ודנים בנושאים הבוערים של היום(n)</desc>
+  </programme>
+  <programme start="20180926230000 +0300" stop="20180926232000 +0300" channel="Arutz20">
+    <title lang="he">חדשות סיכום היום</title>
+    <desc lang="he">מהדורת חדשות המסכמת את אירועי היום(n)</desc>
   </programme>
   <programme start="20180920001500 +0300" stop="20180920004500 +0300" channel="_ערוץ האוכל">
     <title lang="he">יוניק סוויטס 5, חדש! פרק 3</title>
@@ -8491,118 +8011,6 @@
   <programme start="20180925020000 +0300" stop="20180925060000 +0300" channel="_ערוץ האוכל">
     <title lang="he">נשוב לשדר ב-06:00</title>
     <desc lang="he">נשוב לשדר ב-06:00(n)</desc>
-  </programme>
-  <programme start="20180919090000 +0300" stop="20180919120000 +0300" channel="ZOOM [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919150000 +0300" channel="ZOOM [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919150000 +0300" stop="20180919180000 +0300" channel="ZOOM [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="ZOOM [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919202500 +0300" channel="ZOOM [IL]">
-    <title lang="he">כאן גרים בכיף 3</title>
-    <desc lang="he">עונה שלישית לסיטקום המשפחתי המשוגע! כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919202500 +0300" stop="20180919205000 +0300" channel="ZOOM [IL]">
-    <title lang="he">כאן גרים בכיף 3</title>
-    <desc lang="he">הילדים רוצים להרשם לחוגים, אבל יאיר וענת מעדיפים לחסוך. האם הבנים ישיגו את מבוקשם? כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919205000 +0300" stop="20180919211500 +0300" channel="ZOOM [IL]">
-    <title lang="he">כאן גרים בכיף 3</title>
-    <desc lang="he">עונה שלישית לסיטקום המשפחתי המשוגע! כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919211500 +0300" stop="20180919214100 +0300" channel="ZOOM [IL]">
-    <title lang="he">כאן גרים בכיף 3</title>
-    <desc lang="he">עונה שלישית לסיטקום המשפחתי המשוגע! כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919214100 +0300" stop="20180919220600 +0300" channel="ZOOM [IL]">
-    <title lang="he">כאן גרים בכיף 3</title>
-    <desc lang="he">עונה שלישית לסיטקום המשפחתי המשוגע! כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919220600 +0300" stop="20180919223100 +0300" channel="ZOOM [IL]">
-    <title lang="he">כאן גרים בכיף 3</title>
-    <desc lang="he">עונה שלישית לסיטקום המשפחתי המשוגע! כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919223100 +0300" stop="20180919225600 +0300" channel="ZOOM [IL]">
-    <title lang="he">כאן גרים בכיף 3</title>
-    <desc lang="he">עונה שלישית לסיטקום המשפחתי המשוגע! כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919225600 +0300" stop="20180919231300 +0300" channel="ZOOM [IL]">
-    <title lang="he">PLAY - עונה 4</title>
-    <desc lang="he">העוקבים מחליטים על אור, מיכל מציגה שקרים של מורים ומיכאל לא רוצה שהחופש יגמר. שימו PLAY והצטרפו לנבחרת היוטיוברים המטורפת של ZOOM. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919231300 +0300" stop="20180919233200 +0300" channel="ZOOM [IL]">
-    <title lang="he">הזוי</title>
-    <desc lang="he">מה קרה בחנות התכשיטים שגרם למוכרת להישאר בהלם? איך סבתא של שימי קשורה למטבעות שמוסתרים בחולצה? וגם - נלמד בעזרת מדע ואמנות החושים להדהים את החברים שלכם ולגרום לבלון שהם בוחרים להתנפח מבלי לגעת בו. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919233200 +0300" stop="20180919235200 +0300" channel="ZOOM [IL]">
-    <title lang="he">שבט צוצלת - עונה 3</title>
-    <desc lang="he">רציתם לדעת משהו על חאתיך? אז היום יש לכם הזדמנות כי חאתיך פותח הכל בלעדי ל''צוצלת דוטקום''. ואיזה קללה עכשיו תצליח אמה להטיל? והאם לנריה יש את התשובה בשביל לילך? כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919235200 +0300" stop="20180919235200 +0300" channel="ZOOM [IL]">
-    <title lang="he">שבט צוצלת - עונה 3</title>
-    <desc lang="he">פילי וחאתיך נתקלים באתגר קשה במיוחד, הפה הגדול של חומי שוב מסבך אותו (כלומר את טוסטר), ואם עוד לא קניתם מתנה לחג, יש לנו רעיון בשבילכם. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180919235200 +0300" stop="20180920001300 +0300" channel="ZOOM [IL]">
-    <title lang="he">שבט צוצלת - עונה 3</title>
-    <desc lang="he">פילי וחאתיך נתקלים באתגר קשה במיוחד, הפה הגדול של חומי שוב מסבך אותו (כלומר את טוסטר), ואם עוד לא קניתם מתנה לחג, יש לנו רעיון בשבילכם. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920001300 +0300" stop="20180920003700 +0300" channel="ZOOM [IL]">
-    <title lang="he">עוד משפחה וחצי</title>
-    <desc lang="he">אלירן יוצא לשתות עם חבריו ולמרות ביטחונו שהוא שולט בעניינים, מגלה איך האלכוהול גורם לו לאבד שליטה. באיחור הוא מבין שזה גם מה שגרם לאביו להיות אלים כל כך. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920003700 +0300" stop="20180920010100 +0300" channel="ZOOM [IL]">
-    <title lang="he">עוד משפחה וחצי</title>
-    <desc lang="he">דניאל נכנסת לדיאטה קיצונית כדי להוריד שני קילו לפי הוראת הסוכן. מיקי מאשימה את האקס שלה שהוא הורס את בריאות הבת ועד שמצבה הבריאותי של דניאל לא נפגם, הריב ביניהם מתעצם. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920010100 +0300" stop="20180920014900 +0300" channel="ZOOM [IL]">
-    <title lang="he">צ'יקה ומפירו - עונה 2</title>
-    <desc lang="he">מקס ודייזי מנסים למצוא זמן לצפות בסרט לבדם אך זה לא פשוט. בעיות בצנרת מערערות את השכונה, וכשאביה של מרילין מגיע לסייע למשפחת דה לה טורה, נוצר קשר בינו ובין לינט. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920014900 +0300" stop="20180920023500 +0300" channel="ZOOM [IL]">
-    <title lang="he">צ'יקה ומפירו - עונה 2</title>
-    <desc lang="he">המנהל מטיל על התלמידים משימה בשתי קבוצות. שתי הקבוצות מתחרות בצורה מלוכלכת והמנהל מטיל עליהם עונש: לבלות לילה בהסגר בבית הספר. אלחנדרו מנסה להתפייס עם בלינדה אבל נשאר בקשר עם סאירה. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920023500 +0300" stop="20180920032100 +0300" channel="ZOOM [IL]">
-    <title lang="he">צ'יקה ומפירו - עונה 2</title>
-    <desc lang="he">עולם הערפדים חוגג את יום האקסיות וכל ערפד מזמין את חברותיו לשעבר למסיבה. אוליסס מזמין נשים רבות ואנה מקנאת. דייזי הולכת למסיבה של מירקו ולא יכולה להסביר כלום למקס. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920032100 +0300" stop="20180920034000 +0300" channel="ZOOM [IL]">
-    <title lang="he">שבט צוצלת</title>
-    <desc lang="he">תכנית מערכונים פרועה המתרחשת בתנועת נוער. בשבט צוצלת תוכלו לפגוש את המדריכים, החניכים, המחסנאי, החובש, מוכר הארטיקים ואת להקת הרוק סרנדה לסנדה. בהשתתפות שיר מורנו, עידו מוסרי, שירה נאור ועוד כ' עב. כ' ע''פ דרישה. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920034000 +0300" stop="20180920042500 +0300" channel="ZOOM [IL]">
-    <title lang="he">צ'יקה ומפירו - עונה 2</title>
-    <desc lang="he">דייזי עפה עם מרילין לתיכון בתור מתיחה, אבל מישהו מצלם אותן ומפרסם את זה בטלוויזיה. חבורת מטורפים מחליטים שמרילין היא מלאכית ומקס מצטרף אליהם. מרילין משכנעת את אלחנדרו לעזור לה לעוף כדי להרשים את כולם. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920042500 +0300" stop="20180920044900 +0300" channel="ZOOM [IL]">
-    <title lang="he">פאוור ריינג'רס - נינג'ה סטיל</title>
-    <desc lang="he">כשהפאוור ריינג'רס נלכדים בכלא כורי העכביש של מפלצתו של גאלוונאקס, טאנגלווב, קלווין מוכרח להתגבר על פחדיו בכדי לגלות את כוחו החדש ולהציל אותם. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920044900 +0300" stop="20180920051300 +0300" channel="ZOOM [IL]">
-    <title lang="he">פאוור ריינג'רס - נינג'ה סטיל</title>
-    <desc lang="he">היצור של גאלוונאקס תוקף את היילי, מנותקים משאר הריינג'רס, היא ורדבוט חייבים לעבוד יחדיו כדי להציל את עצמם. כ' עב. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920051300 +0300" stop="20180920053400 +0300" channel="ZOOM [IL]">
-    <title lang="he">עוד משפחה וחצי</title>
-    <desc lang="he">איציק שמגיע לביקור מנסה לגייס את אלירן להפריד בין ידין לבין דניאל. איציק מכיר את המשפחה של ידין ויודע שהוריו מנהלים עסקי הימורים. דניאל אכן נפרדת מידין, אבל לא מהסיבה הזאת. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920053400 +0300" stop="20180920060000 +0300" channel="ZOOM [IL]">
-    <title lang="he">עוד משפחה וחצי</title>
-    <desc lang="he">סיגי מנצלת את אושרת בתה ומשאירה בחדרה חבילה של כדורי אקסטזי. דוביק שאינו סומך על סיגי עורך חיפוש בחדר של אושרת ומגלה את החבילה. לאחר לבטים הוא מחליט להגיש תלונה במשטרה. ש.ח(n)</desc>
-  </programme>
-  <programme start="20180920060000 +0300" stop="20180920061300 +0300" channel="ZOOM [IL]">
-    <title lang="he">מיקמק</title>
-    <desc lang="he">בחלומות הכי פרועים שלו, לא דמיין מקס שפליטת פה סתמית שלו, תגרור אותו ואת החבורה למשפט על הוצאת דיבה והריסת שמו הטוב של מונדו. אבל מונדו לא מוכן להסתפק במשפט ויצר הנקמה שלו מעביר אותו על דעתו. ש.ח(n)</desc>
   </programme>
   <programme start="20180920061300 +0300" stop="20180920062600 +0300" channel="ZOOM [IL]">
     <title lang="he">מיקמק</title>
@@ -9424,73 +8832,6 @@
     <title lang="he">עוד משפחה וחצי</title>
     <desc lang="he">צפריר, בן טובים ומי שנחשב הכי מקובל בשכבה, משכנע את אלירן לקחת את המכונית של דוביק ולהצטרף למרוץ מכוניות שיתקיים ביום שישי בלילה. למזלו של אלירן, ברגע האחרון אושרת מתערבת ומצילה אותו מאסון. ש.ח(n)</desc>
   </programme>
-  <programme start="20180919000000 +0300" stop="20180919040000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919120000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919140000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919160000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919160000 +0300" stop="20180919180000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919203000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">חיים חדשים</title>
-    <desc lang="he">סדרת שיחות לימודיות מרתקות עם הרב לייטמן המקנה את הידיעות הדרושות בכדי להכניס אל חיינו את הביטחון, הרוגע והשמחה שכל כך חסרים היום(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919203000 +0300" stop="20180919210000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">באותה סירה מוסיקת מקובלים</title>
-    <desc lang="he">העשרה. מוסיקת מקובלים: מפגש של חברים לכבוד יום ציון פטירתם של בעל הסולם והרב"ש עם ניגונים שלהם ומשמעותם הפנימית(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919213000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">שלבי הסולם</title>
-    <desc lang="he">שיחה אישית עם הרב לייטמן על החוויות והרגשות שעובר האדם במסעו הרוחני(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919213000 +0300" stop="20180919223000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">קבלה למתחיל</title>
-    <desc lang="he">העשרה. שיעורי יסוד בחכמת הקבלה עם הרב ד"ר מיכאל לייטמן(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919223000 +0300" stop="20180919230000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">חיים חדשים</title>
-    <desc lang="he">סדרת שיחות לימודיות מרתקות עם הרב לייטמן המקנה את הידיעות הדרושות בכדי להכניס אל חיינו את הביטחון, הרוגע והשמחה שכל כך חסרים היום(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919230000 +0300" stop="20180919233000 +0300" channel="ערוץ הקבלה">
-    <title lang="he">שלבי הסולם</title>
-    <desc lang="he">שיחה אישית עם הרב לייטמן על החוויות והרגשות שעובר האדם במסעו הרוחני(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
-  <programme start="20180919233000 +0300" stop="20180920011500 +0300" channel="ערוץ הקבלה">
-    <title lang="he">באותה סירה מוסיקת מקובלים</title>
-    <desc lang="he">העשרה. מוסיקת מקובלים: מפגש של חברים לכבוד יום ציון פטירתם של בעל הסולם והרב"ש עם ניגונים שלהם ומשמעותם הפנימית(n)</desc>
-    <category lang="he">תעודה טבע ופנאי</category>
-  </programme>
   <programme start="20180920011500 +0300" stop="20180920014500 +0300" channel="ערוץ הקבלה">
     <title lang="he">לומדים ביחד</title>
     <desc lang="he">יסודות חכמת הקבלה על-פי מאמריו של בעל הסולם. בהנחיית מיטב המרצים של "מכללת קבלה לעם"(n)</desc>
@@ -9905,62 +9246,6 @@
     <category lang="he">תעודה טבע ופנאי</category>
     <country>3:00-6:00</country>
   </programme>
-  <programme start="20180919090000 +0300" stop="20180919120000 +0300" channel="one1HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919150000 +0300" channel="one1HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919150000 +0300" stop="20180919180000 +0300" channel="one1HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="one1HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919210500 +0300" channel="one1HD">
-    <title lang="he">המיטב ממחזור 4 בלה ליגה</title>
-    <desc lang="he">התקצירים והאירועים מהמחזור ה 4 של הליגה הספרדית. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919210500 +0300" stop="20180919230000 +0300" channel="one1HD">
-    <title lang="he">אתלטיק בילבאו</title>
-    <desc lang="he">כדורגל ספרדי 2018/19, מחזור 4 : אתלטיק בילבאו מארחת את ריאל מדריד הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919230000 +0300" stop="20180919233500 +0300" channel="one1HD">
-    <title lang="he">סיפורים מהליגה הספרדית 5</title>
-    <desc lang="he">La-Liga World מיטב כתבות המגזין מהליגה הטובה בעולם. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919233500 +0300" stop="20180919233500 +0300" channel="one1HD">
-    <title lang="he">המיטב ממחזור 4 בלה ליגה</title>
-    <desc lang="he">התקצירים והאירועים מהמחזור ה 4 של הליגה הספרדית. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919233500 +0300" stop="20180920004500 +0300" channel="one1HD">
-    <title lang="he">המיטב ממחזור 4 בלה ליגה</title>
-    <desc lang="he">התקצירים והאירועים מהמחזור ה 4 של הליגה הספרדית. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920004500 +0300" stop="20180920023500 +0300" channel="one1HD">
-    <title lang="he">ריאל סוסיאדד</title>
-    <desc lang="he">כדורגל ספרדי 2018/19, מחזור 4 : ריאל סוסיאדד מארחת את ברצלונה הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920023500 +0300" stop="20180920034500 +0300" channel="one1HD">
-    <title lang="he">המיטב ממחזור 4 בלה ליגה</title>
-    <desc lang="he">התקצירים והאירועים מהמחזור ה 4 של הליגה הספרדית. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920034500 +0300" stop="20180920054500 +0300" channel="one1HD">
-    <title lang="he">ולנסיה</title>
-    <desc lang="he">כדורגל ספרדי 2018/19, מחזור 4 : ולנסיה מארחת את ריאל בטיס הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920054500 +0300" stop="20180920061500 +0300" channel="one1HD">
-    <title lang="he">BMX פארק</title>
-    <desc lang="he">מיטב ספורטאי האקסטרים של ענפי הקיץ מרחבי העולם מתחרים בארוע הגדול של השנה. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920061500 +0300" stop="20180920073000 +0300" channel="one1HD">
-    <title lang="he">רד בול אייר רייס-קאזאן</title>
-    <desc lang="he">קאזאן, רוסיה - גמר: לראשונה בישראל, התחרות הנועזת והיוקרתית של עולם התעופה והאקסטרים, הרד בול אייר רייס. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
   <programme start="20180920073000 +0300" stop="20180920080000 +0300" channel="one1HD">
     <title lang="he">הסבב העולמי בטיפוס אתגרי</title>
     <desc lang="he">חלק :1 מגזין העוקב אחר התחרויות החמות מתחום הטיפוס האתגרי. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
@@ -10245,50 +9530,6 @@
     <title lang="he">סקייטבורד וורט</title>
     <desc lang="he">מיטב ספורטאי האקסטרים של ענפי הקיץ מרחבי העולם מתחרים בארוע הגדול של השנה. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
-  <programme start="20180919100000 +0300" stop="20180919130000 +0300" channel="sport1HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919130000 +0300" stop="20180919160000 +0300" channel="sport1HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919160000 +0300" stop="20180919195500 +0300" channel="sport1HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919195500 +0300" stop="20180919214000 +0300" channel="sport1HD_">
-    <title lang="he">בני יהודה</title>
-    <desc lang="he">שידור חוזר: בני יהודה - מכבי חיפה, ליגת העל, מחזור 3, עונת 2018/19. הירוקים ינסו להשיג ניצחון ליגה שני ברציפות מול הכתומים של אבוקסיס, המחפשים ניצחון בכורה בליגה(n)</desc>
-  </programme>
-  <programme start="20180919214000 +0300" stop="20180919224000 +0300" channel="sport1HD_">
-    <title lang="he">הפועל חיפה</title>
-    <desc lang="he">שידור חוזר: הפועל חיפה - בית''ר ירושלים, ליגת העל, מחזור 3, עונת 2018/19. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919224000 +0300" stop="20180919224000 +0300" channel="sport1HD_">
-    <title lang="he">מכבי ת''א</title>
-    <desc lang="he">שידור חוזר: מכבי ת''א - הפועל רעננה, ליגת העל, מחזור 3, עונת 2018/19. הצהובים חוזרים מפגרת הנבחרות למפגש צמרת מול רעננה המפתיעה של קורצקי. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919224000 +0300" stop="20180920002000 +0300" channel="sport1HD_">
-    <title lang="he">מכבי ת''א</title>
-    <desc lang="he">שידור חוזר: מכבי ת''א - הפועל רעננה, ליגת העל, מחזור 3, עונת 2018/19. הצהובים חוזרים מפגרת הנבחרות למפגש צמרת מול רעננה המפתיעה של קורצקי. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920002000 +0300" stop="20180920032500 +0300" channel="sport1HD_">
-    <title lang="he">מרתון ברלין 2018</title>
-    <desc lang="he">שידור חוזר: מרתון ברלין 2018(n)</desc>
-  </programme>
-  <programme start="20180920032500 +0300" stop="20180920042000 +0300" channel="sport1HD_">
-    <title lang="he">לקראת מחזור בליגה האירופית (1)</title>
-    <desc lang="he">שידור חוזר: לקראת מחזור בליגה האירופית 2018/19. ההכנות לקראת מחזור ה-1 בשלב הבתים(n)</desc>
-  </programme>
-  <programme start="20180920042000 +0300" stop="20180920060000 +0300" channel="sport1HD_">
-    <title lang="he">אלניאספור</title>
-    <desc lang="he">שידור חוזר: אלניאספור - טרבזונספור (וואקמה), הליגה הטורקית, מחזור 5, עונת 2018/19. לאחר הצמד המרשים מול האלופה גלאטסראיי, טוני וואקמה ינסה להכניע גם את אלניאספור(n)</desc>
-  </programme>
-  <programme start="20180920060000 +0300" stop="20180920074000 +0300" channel="sport1HD_">
-    <title lang="he">בני סכנין</title>
-    <desc lang="he">שידור חוזר: בני סכנין - הפועל ת''א, ליגת העל, מחזור 3, עונת 2018/19. סכנין מחפשת ניצחון ליגה ראשון העונה ומארחת את האדומים של קובי רפואה(n)</desc>
-  </programme>
   <programme start="20180920074000 +0300" stop="20180920092000 +0300" channel="sport1HD_">
     <title lang="he">מ.ס אשדוד</title>
     <desc lang="he">שידור חוזר: מ.ס. אשדוד - הפועל באר שבע, ליגת העל, מחזור 3, עונת 2018/19. האלופה מב''ש מקווה לחזור מהדרבי הדרומי באשדוד עם ניצחון ליגה ראשון העונה(n)</desc>
@@ -10309,23 +9550,35 @@
     <title lang="he">משחק היום: מנ. יונייטד</title>
     <desc lang="he">שידור חוזר: הפרמיירליג, עונת 2009-10. מנ. יונייטד ומנ. סיטי נפגשות לאחד המשחקים האיקונים בתולדות הפרמיירליג, עם שבעה שערים, שלושה קאמבקים ומייקל אואן אחד(n)</desc>
   </programme>
-  <programme start="20180920153000 +0300" stop="20180920185000 +0300" channel="sport1HD_">
-    <title lang="he">ליגת האלופות</title>
-    <desc lang="he">שידור חוזר: ליגת האלופות, ליגת האלופות, מחזור 1, עונת 2018/19(n)</desc>
+  <programme start="20180920153000 +0300" stop="20180920171500 +0300" channel="sport1HD_">
+    <title lang="he">סאותהמפטון</title>
+    <desc lang="he">שידור חוזר: סאותהמפטון - ברייטון (כיאל), הליגה האנגלית, מחזור 5, עונת 2018/19. המחזור ה-5 בליגה האנגלית ננעל במפגש בין סאותהפטון לברייטון של בירם כיאל(n)</desc>
+  </programme>
+  <programme start="20180920171500 +0300" stop="20180920175500 +0300" channel="sport1HD_">
+    <title lang="he">סיכום מחזור בליגת העל (3)</title>
+    <desc lang="he">שידור חוזר: סיכום המחזור בליגת העל, מחזור שלישי, עונת 2018/19. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
+  </programme>
+  <programme start="20180920175500 +0300" stop="20180920182500 +0300" channel="sport1HD_">
+    <title lang="he">ווטפורד</title>
+    <desc lang="he">שידור חוזר: ווטפורד - מנ. יונייטד, הליגה האנגלית, מחזור 5, עונת 2018/19(n)</desc>
+  </programme>
+  <programme start="20180920182500 +0300" stop="20180920185000 +0300" channel="sport1HD_">
+    <title lang="he">טוטנהאם</title>
+    <desc lang="he">שידור חוזר: טוטנהאם - ליברפול, הליגה האנגלית, מחזור 5, עונת 2018/19. ליברפול המושלמת מתארחת בוומבלי למפגש צמרת לוהט מול התרנגולים והארי קיין. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
   <programme start="20180920185000 +0300" stop="20180920195000 +0300" channel="sport1HD_">
     <title lang="he">לקראת מחזור בליגה האירופית (1)</title>
     <desc lang="he">שידור חוזר: לקראת מחזור בליגה האירופית 2018/19. ההכנות לקראת מחזור ה-1 בשלב הבתים(n)</desc>
   </programme>
-  <programme start="20180920195000 +0300" stop="20180920220000 +0300" channel="sport1HD_">
+  <programme start="20180920195000 +0300" stop="20180920215500 +0300" channel="sport1HD_">
     <title lang="he">ישיר! חגיגה אירופית (סביליה</title>
     <desc lang="he">שידור ישיר: חגיגה אירופית על גבי סביליה - ליאז', הליגה האירופית, מחזור 1, עונת 2018/19. שידור משולב של משחקי הערב בליגה האירופית(n)</desc>
   </programme>
-  <programme start="20180920220000 +0300" stop="20180920220000 +0300" channel="sport1HD_">
+  <programme start="20180920215500 +0300" stop="20180920215500 +0300" channel="sport1HD_">
     <title lang="he">ישיר! חגיגה אירופית (לייפציג</title>
     <desc lang="he">שידור ישיר: חגיגה אירופית על גבי לייפציג - זלצבורג, הליגה האירופית, מחזור 1, עונת 2018/19. שידור משולב של משחקי הערב בליגה האירופית(n)</desc>
   </programme>
-  <programme start="20180920220000 +0300" stop="20180921001000 +0300" channel="sport1HD_">
+  <programme start="20180920215500 +0300" stop="20180921001000 +0300" channel="sport1HD_">
     <title lang="he">ישיר! חגיגה אירופית (לייפציג</title>
     <desc lang="he">שידור ישיר: חגיגה אירופית על גבי לייפציג - זלצבורג, הליגה האירופית, מחזור 1, עונת 2018/19. שידור משולב של משחקי הערב בליגה האירופית(n)</desc>
   </programme>
@@ -10338,8 +9591,8 @@
     <desc lang="he">שידור חוזר: חגיגה אירופית על גבי סביליה - ליאז', הליגה האירופית, מחזור 1, עונת 2018/19. שידור משולב של משחקי הערב בליגה האירופית(n)</desc>
   </programme>
   <programme start="20180921034500 +0300" stop="20180921053000 +0300" channel="sport1HD_">
-    <title lang="he">הליגה האירופית בכדורגל</title>
-    <desc lang="he">שידור חוזר: משחק כדורגל מהליגה האירופית(n)</desc>
+    <title lang="he">פאוק</title>
+    <desc lang="he">שידור חוזר: פאוק - צ'לסי, הליגה האירופית, מחזור 1, עונת 2018/19. צ'לסי חוזרת לליגה האירופית ופותחת את דרכה בהר הגעש של סלוניקי. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
   <programme start="20180921053000 +0300" stop="20180921060000 +0300" channel="sport1HD_">
     <title lang="he">סיכום מחזור בברזיל (24)</title>
@@ -10397,61 +9650,9 @@
     <title lang="he">וויגאן</title>
     <desc lang="he">שידור חוזר: וויגאן - בריסטול סיטי, הצ'מפיונשיפ, מחזור 9, עונת 2018/19(n)</desc>
   </programme>
-  <programme start="20180919100000 +0300" stop="20180919130000 +0300" channel="ספורט2HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919130000 +0300" stop="20180919160000 +0300" channel="ספורט2HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919160000 +0300" stop="20180919195500 +0300" channel="ספורט2HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919195500 +0300" stop="20180919214500 +0300" channel="ספורט2HD">
-    <title lang="he">ישיר! פלנסבורג</title>
-    <desc lang="he">שידור ישיר: פלנסבורג - זאגרב, ליגת האלופות בכדוריד, מחזור 2, עונת 2018/19. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919214500 +0300" stop="20180919233000 +0300" channel="ספורט2HD">
-    <title lang="he">מנ. סיטי</title>
-    <desc lang="he">שידור חוזר: מנ. סיטי - פולהאם, הליגה האנגלית, מחזור 5, עונת 2018/19. אלופת הפרמיירליג מארחת העולה החדשה של סלבישה יוקאנוביץ'(n)</desc>
-  </programme>
-  <programme start="20180919233000 +0300" stop="20180919233000 +0300" channel="ספורט2HD">
-    <title lang="he">לקראת מחזור בליגה האירופית (1)</title>
-    <desc lang="he">שידור חוזר: לקראת מחזור בליגה האירופית 2018/19. ההכנות לקראת מחזור ה-1 בשלב הבתים. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919233000 +0300" stop="20180920002500 +0300" channel="ספורט2HD">
-    <title lang="he">לקראת מחזור בליגה האירופית (1)</title>
-    <desc lang="he">שידור חוזר: לקראת מחזור בליגה האירופית 2018/19. ההכנות לקראת מחזור ה-1 בשלב הבתים. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920002500 +0300" stop="20180920012500 +0300" channel="ספורט2HD">
-    <title lang="he">הפועל חיפה</title>
-    <desc lang="he">שידור חוזר: הפועל חיפה - בית''ר ירושלים, ליגת העל, מחזור 3, עונת 2018/19. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920012500 +0300" stop="20180920034000 +0300" channel="ספורט2HD">
-    <title lang="he">ישיר! אינדפנדיינטה</title>
-    <desc lang="he">שידור ישיר: אינדפנדיינטה - ריבר פלייט, המשחק הראשון ברבע גמר של גביע הליברטדורס 2018. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920034000 +0300" stop="20180920063000 +0300" channel="ספורט2HD">
-    <title lang="he">ישיר! בוקה ג'וניורס</title>
-    <desc lang="he">שידור ישיר: בוקה ג'וניורס - קרוזיירו, המשחק הראשון ברבע גמר של גביע הליברטדורס 2018. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920063000 +0300" stop="20180920092000 +0300" channel="ספורט2HD">
-    <title lang="he">המיטב של ספורט 1</title>
-    <desc lang="he">שידור חוזר: מיטב אירועי הספורט האטרקטיביים של ספורט 1. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920092000 +0300" stop="20180920101500 +0300" channel="ספורט2HD">
-    <title lang="he">מגזין בארסה TV</title>
-    <desc lang="he">שידור חוזר: עונה שלישית למגזין המלווה את הקבוצה האהודה בעולם! והפעם: עונת 2018/19 - חלק 4. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920101500 +0300" stop="20180920115500 +0300" channel="ספורט2HD">
+  <programme start="20180920101500 +0300" stop="20180920151500 +0300" channel="ספורט2HD">
     <title lang="he">סוסיאדד</title>
     <desc lang="he">שידור חוזר: סוסיאדד - ברצלונה, הליגה הספרדית 2018/19, מחזור 4. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180920115500 +0300" stop="20180920151500 +0300" channel="ספורט2HD">
-    <title lang="he">ליגת האלופות</title>
-    <desc lang="he">שידור חוזר: ליגת האלופות, ליגת האלופות, מחזור 1, עונת 2018/19. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
   <programme start="20180920151500 +0300" stop="20180920165500 +0300" channel="ספורט2HD">
     <title lang="he">סוסיאדד</title>
@@ -10465,15 +9666,15 @@
     <title lang="he">לקראת הליגה האירופית</title>
     <desc lang="he">שידור חוזר: לקראת משחקי הערב בליגה האירופית: בנפיקה - צ'לסי, גמר הליגה האירופית 2013. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
-  <programme start="20180920195000 +0300" stop="20180920220000 +0300" channel="ספורט2HD">
+  <programme start="20180920195000 +0300" stop="20180920215500 +0300" channel="ספורט2HD">
     <title lang="he">ישיר! פאוק</title>
     <desc lang="he">שידור ישיר: פאוק - צ'לסי, הליגה האירופית, מחזור 1, עונת 2018/19. צ'לסי חוזרת לליגה האירופית ופותחת את דרכה בהר הגעש של סלוניקי. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
-  <programme start="20180920220000 +0300" stop="20180920220000 +0300" channel="ספורט2HD">
+  <programme start="20180920215500 +0300" stop="20180920215500 +0300" channel="ספורט2HD">
     <title lang="he">ישיר! ארסנל</title>
     <desc lang="he">שידור ישיר: ארסנל - וורסקלה, הליגה האירופית, מחזור 1, עונת 2018/19. התותחנים פותחים את שלב הבתים מול וורסקלה האוקראינית. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
-  <programme start="20180920220000 +0300" stop="20180921001000 +0300" channel="ספורט2HD">
+  <programme start="20180920215500 +0300" stop="20180921001000 +0300" channel="ספורט2HD">
     <title lang="he">ישיר! ארסנל</title>
     <desc lang="he">שידור ישיר: ארסנל - וורסקלה, הליגה האירופית, מחזור 1, עונת 2018/19. התותחנים פותחים את שלב הבתים מול וורסקלה האוקראינית. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
@@ -10481,13 +9682,9 @@
     <title lang="he">פאוק</title>
     <desc lang="he">שידור חוזר: פאוק - צ'לסי, הליגה האירופית, מחזור 1, עונת 2018/19. צ'לסי חוזרת לליגה האירופית ופותחת את דרכה בהר הגעש של סלוניקי. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
-  <programme start="20180921020000 +0300" stop="20180921034000 +0300" channel="ספורט2HD">
+  <programme start="20180921020000 +0300" stop="20180921060000 +0300" channel="ספורט2HD">
     <title lang="he">ארסנל</title>
     <desc lang="he">שידור חוזר: ארסנל - וורסקלה, הליגה האירופית, מחזור 1, עונת 2018/19. התותחנים פותחים את שלב הבתים מול וורסקלה האוקראינית. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180921034000 +0300" stop="20180921060000 +0300" channel="ספורט2HD">
-    <title lang="he">WWE</title>
-    <desc lang="he">שידור חוזר: מגזין RAW. תכנית הדגל של ה-WWE. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
   </programme>
   <programme start="20180921060000 +0300" stop="20180921083000 +0300" channel="ספורט2HD">
     <title lang="he">המיטב של ספורט 1</title>
@@ -10548,45 +9745,6 @@
   <programme start="20180922034500 +0300" stop="20180922053000 +0300" channel="ספורט2HD">
     <title lang="he">זולטה וארחם</title>
     <desc lang="he">שידור חוזר: זולטה וארחם - קורטרייק, הליגה הבלגית, מחזור 8, עונת 2018/19. הערוץ משודר גם באיכות HD לבעלי ממיר תומך(n)</desc>
-  </programme>
-  <programme start="20180919000000 +0300" stop="20180919040000 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919205000 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">ל. אירופית לקראת המחזור הראשון</title>
-    <desc lang="he">כדורגל. ההכנות לקראת המחזור הראשון בשלב הבתים של הליגה האירופית(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919205000 +0300" stop="20180919214500 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">ל. אנגלית סיכום המחזור החמישי</title>
-    <desc lang="he">כדורגל. סיכום משחקי המחזור החמישי בליגה האנגלית(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919214500 +0300" stop="20180920000500 +0300" channel="Sport 3 HD [IL]">
-    <title lang="he">WWE: מגזין RAW</title>
-    <desc lang="he">הפרק השבועי של Monday Night RAW, תכנית הדגל של ה- WWE(n)</desc>
-    <category lang="he">ספורט</category>
   </programme>
   <programme start="20180920000500 +0300" stop="20180920003500 +0300" channel="Sport 3 HD [IL]">
     <title lang="he">ליגת העל סיכום המחזור השלישי</title>
@@ -10744,50 +9902,6 @@
     <desc lang="he">הפרק השבועי של Monday Night RAW, תכנית הדגל של ה- WWE(n)</desc>
     <category lang="he">ספורט</category>
   </programme>
-  <programme start="20180919000000 +0300" stop="20180919040000 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:55(n)</desc>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:55(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:55(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:55(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:55(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919195500 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:55(n)</desc>
-  </programme>
-  <programme start="20180919195500 +0300" stop="20180919205500 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">ליגת העל ה. חיפה/בית"ר י-ם</title>
-    <desc lang="he">כדורגל. הפועל חיפה - בית"ר ירושלים, ליגת העל, מחזור 3, עונת 2018/19(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919205500 +0300" stop="20180919223500 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">ל. ספרדית ר. סוסיאדד/ברצלונה</title>
-    <desc lang="he">כדורגל. ריאל סוסיאדד - ברצלונה, הליגה הספרדית, מחזור 4, עונת 2018/19(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919223500 +0300" stop="20180919233000 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">מגזין ברצלונה 2017/18 סיכום העונה, חלק ד'</title>
-    <desc lang="he">עונה שלישית למגזין המלווה את הקבוצה האהודה בעולם! והפעם: סיכום עונת 2017/18 - חלק ד'(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919233000 +0300" stop="20180920011000 +0300" channel="Sport 4 HD [IL]">
-    <title lang="he">ל. גרמנית פרייבורג/שטוטגרט</title>
-    <desc lang="he">כדורגל. פרייבורג - שטוטגרט, הליגה הגרמנית, מחזור 3, עונת 2018/19(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
   <programme start="20180920011000 +0300" stop="20180920032500 +0300" channel="Sport 4 HD [IL]">
     <title lang="he">WWE: מגזין RAW</title>
     <desc lang="he">הפרק השבועי של Monday Night RAW, תכנית הדגל של ה- WWE(n)</desc>
@@ -10911,45 +10025,6 @@
   <programme start="20180922051500 +0300" stop="20180922061500 +0300" channel="Sport 4 HD [IL]">
     <title lang="he">ל. אנגלית: המיספרים מספרים מחזור 6</title>
     <desc lang="he">המיספרים מספרים 2018/19. סטטיסטיקות, היסטוריה, כובשים ואנקדוטות לקראת המחזור השישי באנגליה(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919000000 +0300" stop="20180919040000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919195000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919195000 +0300" stop="20180919215000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">ל. אלופות איאקס/א.א.ק</title>
-    <desc lang="he">כדורגל. איאקס נגד א.א.ק אתונה, שלב הבתים, מחזור 1. היוהאן קרויף ארינה צפוי ללהוט, כאשר ליגת האלופות תחזור לאצטדיון לאחר היעדרות של 3 שנים. אלופת הולנד תפגוש את א.א.ק אתונה, שעלתה לאחר קמפיין המוקדמות(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919215000 +0300" stop="20180919220000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">ל. אלופות לקראת הערב השני</title>
-    <desc lang="he">כדורגל. אולפן ליגת האלופות לקראת משחקי הערב השני: מתחממים לערב של ליגת האלופות עם מודי בראון, נדב יעקבי, אבי מלר ועוד(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180920000000 +0300" channel="ספורט 5 HD_">
-    <title lang="he">ל. אלופות ר. מדריד/רומא</title>
-    <desc lang="he">כדורגל. ריאל מדריד נגד רומא, שלב הבתים, מחזור 1. אלופת אירופה מתחילה שוב במסע להגנה על התואר, הפעם בלי כריסטיאנו רונאלדו, במשחק קשוח נגד רומא, שהגיעה בעונה הקודמת עד לחצי הגמר(n)</desc>
     <category lang="he">ספורט</category>
   </programme>
   <programme start="20180920000000 +0300" stop="20180920005000 +0300" channel="ספורט 5 HD_">
@@ -11285,45 +10360,6 @@
     <desc lang="he">חדשות הספורט במהדורת שבת. כ' סמויות(n)</desc>
     <category lang="he">ספורט</category>
   </programme>
-  <programme start="20180919000000 +0300" stop="20180919040000 +0300" channel="5+ Live HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="5+ Live HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="5+ Live HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="5+ Live HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="5+ Live HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919195000 +0300" channel="5+ Live HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-19:50(n)</desc>
-  </programme>
-  <programme start="20180919195000 +0300" stop="20180919215000 +0300" channel="5+ Live HD">
-    <title lang="he">ל. אלופות ליברפול/פ.ס.ז'</title>
-    <desc lang="he">כדורגל. ליברפול נגד פריס סן ז'רמן, שלב הבתים, מחזור 1. הפיינליסטית משנה שעברה, ליברפול של יורגן קלופ, מארחת במחזור הראשון את האימפריה מפריס, למפגש עצום בין שתי אימפריות של כדורגל(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919215000 +0300" stop="20180919220000 +0300" channel="5+ Live HD">
-    <title lang="he">ל. אלופות לקראת הערב השני</title>
-    <desc lang="he">כדורגל. אולפן ליגת האלופות לקראת משחקי הערב השני: מתחממים לערב של ליגת האלופות עם מודי בראון, נדב יעקבי, אבי מלר ועוד(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180920000000 +0300" channel="5+ Live HD">
-    <title lang="he">ל. אלופות ערוץ הקיבוץ</title>
-    <desc lang="he">כדורגל. מתאספים בחדר האוכל של הקיבוץ לראות את כל משחקי המחזור, בהנחיית מזכיר המשק - מודי בר און(n)</desc>
-    <category lang="he">ספורט</category>
-  </programme>
   <programme start="20180920000000 +0300" stop="20180920005000 +0300" channel="5+ Live HD">
     <title lang="he">ל. אלופות סיכום הערב השני</title>
     <desc lang="he">כדורגל. סיכום משחקי הערב השני עם מודי בראון, נדב יעקבי, אבי מלר ועוד(n)</desc>
@@ -11614,78 +10650,6 @@
     <title lang="he">UFC טשיירה/מנואה</title>
     <desc lang="he">אמנויות לחימה. Fight Night בברזיל: גלובר טשיירה נגד ג'ימי מנואה(n)</desc>
     <category lang="he">ספורט</category>
-  </programme>
-  <programme start="20180919113000 +0300" stop="20180919143000 +0300" channel="9_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919143000 +0300" stop="20180919173000 +0300" channel="9_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919173000 +0300" stop="20180919200000 +0300" channel="9_">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919220000 +0300" channel="9_">
-    <title lang="he">עוד תזכרו בי פעמים רבות.</title>
-    <desc lang="he">ערב מחווה לליודמילה גורצ'נקו(n)</desc>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180919225000 +0300" channel="9_">
-    <title lang="he">עקבות. סיוט בירושה</title>
-    <desc lang="he">סדרה בלשית. סיוט בירושה: בכפר ליד העיר דובינסק נרצח גמלאי, פסיכיאטר לשעבר אונישנקו. האכזריות שבה בוצע הרצח זעזעה אף את החוקרים המנוסים ביותר(n)</desc>
-  </programme>
-  <programme start="20180919225000 +0300" stop="20180919234000 +0300" channel="9_">
-    <title lang="he">עקבות. נופש</title>
-    <desc lang="he">סדרה בלשית. נופש: מומחי שמ''פ חוקרים את חטיפתו של אולג טרבין בן ה-15. התנהלותם של החוטפים מזעזעת בחוסר עקביות ואכזריות מיותרת(n)</desc>
-  </programme>
-  <programme start="20180919234000 +0300" stop="20180919234000 +0300" channel="9_">
-    <title lang="he">העיוורת</title>
-    <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
-  </programme>
-  <programme start="20180919234000 +0300" stop="20180920011000 +0300" channel="9_">
-    <title lang="he">העיוורת</title>
-    <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
-  </programme>
-  <programme start="20180920011000 +0300" stop="20180920014000 +0300" channel="9_">
-    <title lang="he">Deutsche Welle. Tomorrow Today</title>
-    <desc lang="he">מגזין מדע. סקירת חדשות המדע והטכנולוגיה(n)</desc>
-  </programme>
-  <programme start="20180920014000 +0300" stop="20180920023000 +0300" channel="9_">
-    <title lang="he">יחידה לחקירות מיוחדות</title>
-    <desc lang="he">סדרה בלשית. פני צלקת: מתכנת רוסי צעיר מקבל עבודה בארה''ב. הוא חוזר למוסקבה על מנת לקחת איתו את ארוסתו, אך מוצא את עצמו בתסבוכת לא קטנה.(n)</desc>
-  </programme>
-  <programme start="20180920023000 +0300" stop="20180920031500 +0300" channel="9_">
-    <title lang="he">העדים. השופט</title>
-    <desc lang="he">סדרה בלשית. השופט: בעיר סטארסק מתרחשת התנקשות בשופט פדרלי בולדין, אשר היה ידוע בטוהר מידות שלו(n)</desc>
-  </programme>
-  <programme start="20180920031500 +0300" stop="20180920034500 +0300" channel="9_">
-    <title lang="he">עוזרת בית. הנהג של טניה</title>
-    <desc lang="he">הנהג של טניה: עוזרת בית גליה ראתה איך בעלת הבית טטיאנה זוייבה סטרה לנהגה החדש איוון. גליה ישר הבינה כי לטטיאנה ואיוון יש עבר משותף(n)</desc>
-  </programme>
-  <programme start="20180920034500 +0300" stop="20180920042500 +0300" channel="9_">
-    <title lang="he">עקבות. הפצצה מבית מרקחת</title>
-    <desc lang="he">סדרה בלשית. הפצצה מבית מרקחת: בתיבת דואר של בניין מגורים מתרחש פיצוץ, שבו נפצע עובר אורח. התפוצץ מטען נפץ מאולתר. יום למחרת נהרג דוור מקומי(n)</desc>
-  </programme>
-  <programme start="20180920042500 +0300" stop="20180920045000 +0300" channel="9_">
-    <title lang="he">פרי המחלוקת</title>
-    <desc lang="he">תכנית ראיונות עם ילנה לגוטינה. המרואיינים הם ידוענים דוברי רוסית מישראל וממדינות אחרות(n)</desc>
-  </programme>
-  <programme start="20180920045000 +0300" stop="20180920051500 +0300" channel="9_">
-    <title lang="he">אישי בלבד</title>
-    <desc lang="he">תכנית בידור, המספרת על אודות יום אחד בחיי הידוענים. מנחה -- יוליה פניץ'(n)</desc>
-  </programme>
-  <programme start="20180920051500 +0300" stop="20180920054000 +0300" channel="9_">
-    <title lang="he">להבין ולסלוח. ילד רצוי</title>
-    <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר(n)</desc>
-  </programme>
-  <programme start="20180920054000 +0300" stop="20180920063000 +0300" channel="9_">
-    <title lang="he">אהבה ושטויות אחרות</title>
-    <desc lang="he">קומי. לקוחות מכון היופי באים לטיפול ונזכרים בסיפורי אהבה שלהם(n)</desc>
-  </programme>
-  <programme start="20180920063000 +0300" stop="20180920092500 +0300" channel="9_">
-    <title lang="he">העיוורת</title>
-    <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
   </programme>
   <programme start="20180920092500 +0300" stop="20180920102000 +0300" channel="9_">
     <title lang="he">העדים. השופט</title>
@@ -12375,77 +11339,137 @@
     <title lang="he">עקבות. כלב</title>
     <desc lang="he">סדרה בלשית. כלב: בעיר גוטימסק הלכה לעולמה שוטרת עתירת זכויות ילנה בוריאנוב. מותה נראה כהתאבדות, אך לחוקרים יש ספקות לגבי סיבת המוות(n)</desc>
   </programme>
-  <programme start="20180919113000 +0300" stop="20180919143000 +0300" channel="9HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919143000 +0300" stop="20180919173000 +0300" channel="9HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919173000 +0300" stop="20180919200000 +0300" channel="9HD">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919220000 +0300" channel="9HD">
-    <title lang="he">עוד תזכרו בי פעמים רבות.</title>
-    <desc lang="he">ערב מחווה לליודמילה גורצ'נקו(n)</desc>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180919225000 +0300" channel="9HD">
-    <title lang="he">עקבות. סיוט בירושה</title>
-    <desc lang="he">סדרה בלשית. סיוט בירושה: בכפר ליד העיר דובינסק נרצח גמלאי, פסיכיאטר לשעבר אונישנקו. האכזריות שבה בוצע הרצח זעזעה אף את החוקרים המנוסים ביותר(n)</desc>
-  </programme>
-  <programme start="20180919225000 +0300" stop="20180919234000 +0300" channel="9HD">
-    <title lang="he">עקבות. נופש</title>
-    <desc lang="he">סדרה בלשית. נופש: מומחי שמ''פ חוקרים את חטיפתו של אולג טרבין בן ה-15. התנהלותם של החוטפים מזעזעת בחוסר עקביות ואכזריות מיותרת(n)</desc>
-  </programme>
-  <programme start="20180919234000 +0300" stop="20180919234000 +0300" channel="9HD">
+  <programme start="20180925231000 +0300" stop="20180925231000 +0300" channel="9_">
     <title lang="he">העיוורת</title>
     <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
   </programme>
-  <programme start="20180919234000 +0300" stop="20180920011000 +0300" channel="9HD">
+  <programme start="20180925231000 +0300" stop="20180926011000 +0300" channel="9_">
     <title lang="he">העיוורת</title>
     <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
   </programme>
-  <programme start="20180920011000 +0300" stop="20180920014000 +0300" channel="9HD">
-    <title lang="he">Deutsche Welle. Tomorrow Today</title>
-    <desc lang="he">מגזין מדע. סקירת חדשות המדע והטכנולוגיה(n)</desc>
+  <programme start="20180926011000 +0300" stop="20180926014000 +0300" channel="9_">
+    <title lang="he">Deutsche Welle. Arts.21</title>
+    <desc lang="he">מגזין, הסוקר את אירועי התרבות בארץ ובחו''ל(n)</desc>
   </programme>
-  <programme start="20180920014000 +0300" stop="20180920023000 +0300" channel="9HD">
+  <programme start="20180926014000 +0300" stop="20180926023000 +0300" channel="9_">
     <title lang="he">יחידה לחקירות מיוחדות</title>
-    <desc lang="he">סדרה בלשית. פני צלקת: מתכנת רוסי צעיר מקבל עבודה בארה''ב. הוא חוזר למוסקבה על מנת לקחת איתו את ארוסתו, אך מוצא את עצמו בתסבוכת לא קטנה.(n)</desc>
+    <desc lang="he">סדרה בלשית. העימות: ג'יגולו מובטל מתחתן עם אישה אמידה. כעבור זמן קצר האישה נעלמת ללא עקבות. אחיינה טוען, כי בעלה הטרי רצח אותה.(n)</desc>
   </programme>
-  <programme start="20180920023000 +0300" stop="20180920031500 +0300" channel="9HD">
-    <title lang="he">העדים. השופט</title>
-    <desc lang="he">סדרה בלשית. השופט: בעיר סטארסק מתרחשת התנקשות בשופט פדרלי בולדין, אשר היה ידוע בטוהר מידות שלו(n)</desc>
+  <programme start="20180926023000 +0300" stop="20180926031500 +0300" channel="9_">
+    <title lang="he">העדים. תכנית חלופית</title>
+    <desc lang="he">סדרה בלשית. תכנית חלופית: בחנות שפתוחה בלילה שודד הורג בשוגג מוכרת צעירה. סימן זיהוי יחיד של הפושע הוא קעקוע נדיר על מותניו(n)</desc>
   </programme>
-  <programme start="20180920031500 +0300" stop="20180920034500 +0300" channel="9HD">
-    <title lang="he">עוזרת בית. הנהג של טניה</title>
-    <desc lang="he">הנהג של טניה: עוזרת בית גליה ראתה איך בעלת הבית טטיאנה זוייבה סטרה לנהגה החדש איוון. גליה ישר הבינה כי לטטיאנה ואיוון יש עבר משותף(n)</desc>
+  <programme start="20180926031500 +0300" stop="20180926034500 +0300" channel="9_">
+    <title lang="he">עוזרת בית. להיות צעיר שוב</title>
+    <desc lang="he">למרות יופיין וגילן הצעיר ליודמילה וגלינה נאלצות להתפרנס מניקיון בתים. בעל כורחן הן עדות למצבים סבוכים ביחסים בין בני המשפחה(n)</desc>
   </programme>
-  <programme start="20180920034500 +0300" stop="20180920042500 +0300" channel="9HD">
-    <title lang="he">עקבות. הפצצה מבית מרקחת</title>
-    <desc lang="he">סדרה בלשית. הפצצה מבית מרקחת: בתיבת דואר של בניין מגורים מתרחש פיצוץ, שבו נפצע עובר אורח. התפוצץ מטען נפץ מאולתר. יום למחרת נהרג דוור מקומי(n)</desc>
+  <programme start="20180926034500 +0300" stop="20180926042500 +0300" channel="9_">
+    <title lang="he">עקבות. פרסה</title>
+    <desc lang="he">סדרה בלשית. פרסה: מגדל הסוסים נרצח. נראה שהוא הוכה בפרסת סוסו. אך כיצד ייתכן הדבר, אם באותו היום הוא לא היה מסוגל להתכופף בצורה כזו עקב כאבי גב(n)</desc>
   </programme>
-  <programme start="20180920042500 +0300" stop="20180920045000 +0300" channel="9HD">
-    <title lang="he">פרי המחלוקת</title>
-    <desc lang="he">תכנית ראיונות עם ילנה לגוטינה. המרואיינים הם ידוענים דוברי רוסית מישראל וממדינות אחרות(n)</desc>
-  </programme>
-  <programme start="20180920045000 +0300" stop="20180920051500 +0300" channel="9HD">
+  <programme start="20180926042500 +0300" stop="20180926045000 +0300" channel="9_">
     <title lang="he">אישי בלבד</title>
     <desc lang="he">תכנית בידור, המספרת על אודות יום אחד בחיי הידוענים. מנחה -- יוליה פניץ'(n)</desc>
   </programme>
-  <programme start="20180920051500 +0300" stop="20180920054000 +0300" channel="9HD">
-    <title lang="he">להבין ולסלוח. ילד רצוי</title>
+  <programme start="20180926045000 +0300" stop="20180926051500 +0300" channel="9_">
+    <title lang="he">האנציקלופדיה היהודית</title>
+    <desc lang="he">תכנית בהנחיית בוריס שטרן, המספרת על אודות יהדות ומסורת ישראל(n)</desc>
+  </programme>
+  <programme start="20180926051500 +0300" stop="20180926054000 +0300" channel="9_">
+    <title lang="he">להבין ולסלוח. ניאוף</title>
     <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר(n)</desc>
   </programme>
-  <programme start="20180920054000 +0300" stop="20180920063000 +0300" channel="9HD">
+  <programme start="20180926054000 +0300" stop="20180926063000 +0300" channel="9_">
     <title lang="he">אהבה ושטויות אחרות</title>
     <desc lang="he">קומי. לקוחות מכון היופי באים לטיפול ונזכרים בסיפורי אהבה שלהם(n)</desc>
   </programme>
-  <programme start="20180920063000 +0300" stop="20180920092500 +0300" channel="9HD">
+  <programme start="20180926063000 +0300" stop="20180926085500 +0300" channel="9_">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926085500 +0300" stop="20180926092500 +0300" channel="9_">
+    <title lang="he">פרי המחלוקת</title>
+    <desc lang="he">תכנית ראיונות עם ילנה לגוטינה. המרואיינים הם ידוענים דוברי רוסית מישראל וממדינות אחרות(n)</desc>
+  </programme>
+  <programme start="20180926092500 +0300" stop="20180926102000 +0300" channel="9_">
+    <title lang="he">העדים. תכנית חלופית</title>
+    <desc lang="he">סדרה בלשית. תכנית חלופית: בחנות שפתוחה בלילה שודד הורג בשוגג מוכרת צעירה. סימן זיהוי יחיד של הפושע הוא קעקוע נדיר על מותניו(n)</desc>
+  </programme>
+  <programme start="20180926102000 +0300" stop="20180926105000 +0300" channel="9_">
+    <title lang="he">Deutsche Welle. Arts.21</title>
+    <desc lang="he">מגזין, הסוקר את אירועי התרבות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926105000 +0300" stop="20180926112000 +0300" channel="9_">
+    <title lang="he">להבין ולסלוח. היתום</title>
+    <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר(n)</desc>
+  </programme>
+  <programme start="20180926112000 +0300" stop="20180926115000 +0300" channel="9_">
+    <title lang="he">שלדים בארון</title>
+    <desc lang="he">לכל אחד יש שלד בארון. אך כמה זמן נוכל להסתיר את הסודות שלנו? פרויקט ''שלדים בארון'' מבוסס על סיפורים אמיתיים(n)</desc>
+  </programme>
+  <programme start="20180926115000 +0300" stop="20180926123500 +0300" channel="9_">
+    <title lang="he">עקבות. הרצח בכפר</title>
+    <desc lang="he">סדרה בלשית. הרצח בכפר: מתוך הנהר הוצאה גופת אדם, שטבע. מסתבר, שאיש לא אהבה אותו, ורבים יכלו לייחל למותו. חוקרי שמ''פ יוצאים לפעולה(n)</desc>
+  </programme>
+  <programme start="20180926123500 +0300" stop="20180926133500 +0300" channel="9_">
     <title lang="he">העיוורת</title>
     <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
+  </programme>
+  <programme start="20180926133500 +0300" stop="20180926143000 +0300" channel="9_">
+    <title lang="he">יחידה לחקירות מיוחדות</title>
+    <desc lang="he">סדרה בלשית. סוף טוב הכל טוב: חבר היחידה לחקירות פנים ארטיום ניקיטין מנסה לחשוף ''חפרפרת''(n)</desc>
+  </programme>
+  <programme start="20180926143000 +0300" stop="20180926153000 +0300" channel="9_">
+    <title lang="he">מגדת עתידות</title>
+    <desc lang="he">מגדות עתידות עוזרות לגיבורי הסדרה בפתרון בעיות שונות בקריירה, חיים אישיים ואהבה(n)</desc>
+  </programme>
+  <programme start="20180926153000 +0300" stop="20180926163000 +0300" channel="9_">
+    <title lang="he">העדים. מפלצת בע''מ</title>
+    <desc lang="he">סדרה בלשית. מפלצת בע''מ: קטיה פרוחורובה בת 29. לא מזמן היא מצאה חתן שמוצא חן בעיני אביה. יום לפני החתונה מתרחשים שני מקרי רצח(n)</desc>
+  </programme>
+  <programme start="20180926163000 +0300" stop="20180926170000 +0300" channel="9_">
+    <title lang="he">עוזרת בית. אני אוהב אותך</title>
+    <desc lang="he">בכל בית יש סודות ובעיות. עוזרת בית יכולה גם לתת עצה טובה וגם לעזור בפתרון הבעיה(n)</desc>
+  </programme>
+  <programme start="20180926170000 +0300" stop="20180926171000 +0300" channel="9_">
+    <title lang="he">יום. חדשות</title>
+    <desc lang="he">מהדורת חדשות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926171000 +0300" stop="20180926180000 +0300" channel="9_">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926180000 +0300" stop="20180926181000 +0300" channel="9_">
+    <title lang="he">יום. חדשות</title>
+    <desc lang="he">מהדורת חדשות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926181000 +0300" stop="20180926190000 +0300" channel="9_">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926190000 +0300" stop="20180926191000 +0300" channel="9_">
+    <title lang="he">יום. חדשות</title>
+    <desc lang="he">מהדורת חדשות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926191000 +0300" stop="20180926200000 +0300" channel="9_">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926200000 +0300" stop="20180926210000 +0300" channel="9_">
+    <title lang="he">יום. מהדורה מרכזית</title>
+    <desc lang="he">מהדורת החדשות המרכזית של ערוץ 9. כל אירועי הפוליטיקה, הכלכלה, החברה והתרבות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926210000 +0300" stop="20180926213000 +0300" channel="9_">
+    <title lang="he">(ע) העם הנבחר</title>
+    <desc lang="he">עונה חדשה של תכנית פוליטיקה על כל מה שקורה בכנסת בהנחיית אנה רייבה ואיגור לרנר(n)</desc>
+  </programme>
+  <programme start="20180926213000 +0300" stop="20180926222000 +0300" channel="9_">
+    <title lang="he">עקבות. סמל התמימות</title>
+    <desc lang="he">סדרה בלשית. סמל התמימות: מישהו רוצח בחורות ומשאיר בשיערן פרחי חבצלת. כל יום בחורה חדשה ופרח חדש.(n)</desc>
+  </programme>
+  <programme start="20180926222000 +0300" stop="20180926231000 +0300" channel="9_">
+    <title lang="he">עקבות. מחשבות מסוכנות</title>
+    <desc lang="he">סדרה בלשית. מחשבות מסוכנות: מישהו רצח גבר, וקשר על צווארו צעיף אדום של פיונרים. מסתבר, שלפני כ-24 שנים הנרצח העיד במשפט נגד הרוצח, המכונה ''מדריך''(n)</desc>
   </programme>
   <programme start="20180920092500 +0300" stop="20180920102000 +0300" channel="9HD">
     <title lang="he">העדים. השופט</title>
@@ -13135,47 +12159,137 @@
     <title lang="he">עקבות. כלב</title>
     <desc lang="he">סדרה בלשית. כלב: בעיר גוטימסק הלכה לעולמה שוטרת עתירת זכויות ילנה בוריאנוב. מותה נראה כהתאבדות, אך לחוקרים יש ספקות לגבי סיבת המוות(n)</desc>
   </programme>
-  <programme start="20180919100000 +0300" stop="20180919130000 +0300" channel="egoTotal">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
+  <programme start="20180925231000 +0300" stop="20180925231000 +0300" channel="9HD">
+    <title lang="he">העיוורת</title>
+    <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
   </programme>
-  <programme start="20180919130000 +0300" stop="20180919160000 +0300" channel="egoTotal">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
+  <programme start="20180925231000 +0300" stop="20180926011000 +0300" channel="9HD">
+    <title lang="he">העיוורת</title>
+    <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
   </programme>
-  <programme start="20180919160000 +0300" stop="20180919200000 +0300" channel="egoTotal">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">נשוב לשדר בצאת יום הכיפורים(n)</desc>
+  <programme start="20180926011000 +0300" stop="20180926014000 +0300" channel="9HD">
+    <title lang="he">Deutsche Welle. Arts.21</title>
+    <desc lang="he">מגזין, הסוקר את אירועי התרבות בארץ ובחו''ל(n)</desc>
   </programme>
-  <programme start="20180919200000 +0300" stop="20180919210000 +0300" channel="egoTotal">
-    <title lang="he">WCR פרו רסלינג</title>
-    <desc lang="he">ליגת ההאבקות World class wrestling מארה''ב ש.ח(n)</desc>
+  <programme start="20180926014000 +0300" stop="20180926023000 +0300" channel="9HD">
+    <title lang="he">יחידה לחקירות מיוחדות</title>
+    <desc lang="he">סדרה בלשית. העימות: ג'יגולו מובטל מתחתן עם אישה אמידה. כעבור זמן קצר האישה נעלמת ללא עקבות. אחיינה טוען, כי בעלה הטרי רצח אותה.(n)</desc>
   </programme>
-  <programme start="20180919210000 +0300" stop="20180919223000 +0300" channel="egoTotal">
-    <title lang="he">אימפקט - IMPACT</title>
-    <desc lang="he">אקשן ללא הפסקה עם מתאבקי הדור החדש של ארגון הפרו רסלינג הפופולרי(n)</desc>
+  <programme start="20180926023000 +0300" stop="20180926031500 +0300" channel="9HD">
+    <title lang="he">העדים. תכנית חלופית</title>
+    <desc lang="he">סדרה בלשית. תכנית חלופית: בחנות שפתוחה בלילה שודד הורג בשוגג מוכרת צעירה. סימן זיהוי יחיד של הפושע הוא קעקוע נדיר על מותניו(n)</desc>
   </programme>
-  <programme start="20180919223000 +0300" stop="20180919230000 +0300" channel="egoTotal">
-    <title lang="he">ראיון עם מייק גולדברג</title>
-    <desc lang="he">ראיון עם מייק גולדברג כ' עב. ש.ח(n)</desc>
+  <programme start="20180926031500 +0300" stop="20180926034500 +0300" channel="9HD">
+    <title lang="he">עוזרת בית. להיות צעיר שוב</title>
+    <desc lang="he">למרות יופיין וגילן הצעיר ליודמילה וגלינה נאלצות להתפרנס מניקיון בתים. בעל כורחן הן עדות למצבים סבוכים ביחסים בין בני המשפחה(n)</desc>
   </programme>
-  <programme start="20180920010000 +0300" stop="20180920013000 +0300" channel="egoTotal">
-    <title lang="he">Foursome 1</title>
+  <programme start="20180926034500 +0300" stop="20180926042500 +0300" channel="9HD">
+    <title lang="he">עקבות. פרסה</title>
+    <desc lang="he">סדרה בלשית. פרסה: מגדל הסוסים נרצח. נראה שהוא הוכה בפרסת סוסו. אך כיצד ייתכן הדבר, אם באותו היום הוא לא היה מסוגל להתכופף בצורה כזו עקב כאבי גב(n)</desc>
   </programme>
-  <programme start="20180920013000 +0300" stop="20180920020000 +0300" channel="egoTotal">
-    <title lang="he">Foursome 2</title>
+  <programme start="20180926042500 +0300" stop="20180926045000 +0300" channel="9HD">
+    <title lang="he">אישי בלבד</title>
+    <desc lang="he">תכנית בידור, המספרת על אודות יום אחד בחיי הידוענים. מנחה -- יוליה פניץ'(n)</desc>
   </programme>
-  <programme start="20180920020000 +0300" stop="20180920050000 +0300" channel="egoTotal">
-    <title lang="he">ONE CHAMPIONSHIP EVENTS</title>
-    <desc lang="he">ליגת הMMA של הארגון האסיאתי ONE ש.ח(n)</desc>
+  <programme start="20180926045000 +0300" stop="20180926051500 +0300" channel="9HD">
+    <title lang="he">האנציקלופדיה היהודית</title>
+    <desc lang="he">תכנית בהנחיית בוריס שטרן, המספרת על אודות יהדות ומסורת ישראל(n)</desc>
   </programme>
-  <programme start="20180920050000 +0300" stop="20180920060000 +0300" channel="egoTotal">
-    <title lang="he">מר ישראל 2016</title>
-    <desc lang="he">תחרות אלוף מר ישראל לשנת 2016 ש.ח(n)</desc>
+  <programme start="20180926051500 +0300" stop="20180926054000 +0300" channel="9HD">
+    <title lang="he">להבין ולסלוח. ניאוף</title>
+    <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר(n)</desc>
   </programme>
-  <programme start="20180920060000 +0300" stop="20180920090000 +0300" channel="egoTotal">
-    <title lang="he">השידורים יתחדשו בשעה 11:00</title>
-    <desc lang="he">השידורים יתחדשו בשעה 11:00(n)</desc>
+  <programme start="20180926054000 +0300" stop="20180926063000 +0300" channel="9HD">
+    <title lang="he">אהבה ושטויות אחרות</title>
+    <desc lang="he">קומי. לקוחות מכון היופי באים לטיפול ונזכרים בסיפורי אהבה שלהם(n)</desc>
+  </programme>
+  <programme start="20180926063000 +0300" stop="20180926085500 +0300" channel="9HD">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926085500 +0300" stop="20180926092500 +0300" channel="9HD">
+    <title lang="he">פרי המחלוקת</title>
+    <desc lang="he">תכנית ראיונות עם ילנה לגוטינה. המרואיינים הם ידוענים דוברי רוסית מישראל וממדינות אחרות(n)</desc>
+  </programme>
+  <programme start="20180926092500 +0300" stop="20180926102000 +0300" channel="9HD">
+    <title lang="he">העדים. תכנית חלופית</title>
+    <desc lang="he">סדרה בלשית. תכנית חלופית: בחנות שפתוחה בלילה שודד הורג בשוגג מוכרת צעירה. סימן זיהוי יחיד של הפושע הוא קעקוע נדיר על מותניו(n)</desc>
+  </programme>
+  <programme start="20180926102000 +0300" stop="20180926105000 +0300" channel="9HD">
+    <title lang="he">Deutsche Welle. Arts.21</title>
+    <desc lang="he">מגזין, הסוקר את אירועי התרבות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926105000 +0300" stop="20180926112000 +0300" channel="9HD">
+    <title lang="he">להבין ולסלוח. היתום</title>
+    <desc lang="he">תכנית אשר חוקרת את טבעם של יחסי אנוש ומדגימה על בסיס ניסיונם של משתתפיה כיצד בעזרת הבנה ואהבה אפשר לצאת בכבוד אף ממצבים סבוכים ביותר(n)</desc>
+  </programme>
+  <programme start="20180926112000 +0300" stop="20180926115000 +0300" channel="9HD">
+    <title lang="he">שלדים בארון</title>
+    <desc lang="he">לכל אחד יש שלד בארון. אך כמה זמן נוכל להסתיר את הסודות שלנו? פרויקט ''שלדים בארון'' מבוסס על סיפורים אמיתיים(n)</desc>
+  </programme>
+  <programme start="20180926115000 +0300" stop="20180926123500 +0300" channel="9HD">
+    <title lang="he">עקבות. הרצח בכפר</title>
+    <desc lang="he">סדרה בלשית. הרצח בכפר: מתוך הנהר הוצאה גופת אדם, שטבע. מסתבר, שאיש לא אהבה אותו, ורבים יכלו לייחל למותו. חוקרי שמ''פ יוצאים לפעולה(n)</desc>
+  </programme>
+  <programme start="20180926123500 +0300" stop="20180926133500 +0300" channel="9HD">
+    <title lang="he">העיוורת</title>
+    <desc lang="he">דוקו-דרמה. היא ממעיטה לדבר על עצמה ועל אלה, הפונים לעזרתה. היא חיה בבדידות במקום נידח. אולם אלה, המגיעים אליה, מתקבלים בברכה. היא רואה נסתרות(n)</desc>
+  </programme>
+  <programme start="20180926133500 +0300" stop="20180926143000 +0300" channel="9HD">
+    <title lang="he">יחידה לחקירות מיוחדות</title>
+    <desc lang="he">סדרה בלשית. סוף טוב הכל טוב: חבר היחידה לחקירות פנים ארטיום ניקיטין מנסה לחשוף ''חפרפרת''(n)</desc>
+  </programme>
+  <programme start="20180926143000 +0300" stop="20180926153000 +0300" channel="9HD">
+    <title lang="he">מגדת עתידות</title>
+    <desc lang="he">מגדות עתידות עוזרות לגיבורי הסדרה בפתרון בעיות שונות בקריירה, חיים אישיים ואהבה(n)</desc>
+  </programme>
+  <programme start="20180926153000 +0300" stop="20180926163000 +0300" channel="9HD">
+    <title lang="he">העדים. מפלצת בע''מ</title>
+    <desc lang="he">סדרה בלשית. מפלצת בע''מ: קטיה פרוחורובה בת 29. לא מזמן היא מצאה חתן שמוצא חן בעיני אביה. יום לפני החתונה מתרחשים שני מקרי רצח(n)</desc>
+  </programme>
+  <programme start="20180926163000 +0300" stop="20180926170000 +0300" channel="9HD">
+    <title lang="he">עוזרת בית. אני אוהב אותך</title>
+    <desc lang="he">בכל בית יש סודות ובעיות. עוזרת בית יכולה גם לתת עצה טובה וגם לעזור בפתרון הבעיה(n)</desc>
+  </programme>
+  <programme start="20180926170000 +0300" stop="20180926171000 +0300" channel="9HD">
+    <title lang="he">יום. חדשות</title>
+    <desc lang="he">מהדורת חדשות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926171000 +0300" stop="20180926180000 +0300" channel="9HD">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926180000 +0300" stop="20180926181000 +0300" channel="9HD">
+    <title lang="he">יום. חדשות</title>
+    <desc lang="he">מהדורת חדשות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926181000 +0300" stop="20180926190000 +0300" channel="9HD">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926190000 +0300" stop="20180926191000 +0300" channel="9HD">
+    <title lang="he">יום. חדשות</title>
+    <desc lang="he">מהדורת חדשות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926191000 +0300" stop="20180926200000 +0300" channel="9HD">
+    <title lang="he">יום</title>
+    <desc lang="he">כל יום בשידור חי כל מה שחם ומעניין בארץ ובעולם(n)</desc>
+  </programme>
+  <programme start="20180926200000 +0300" stop="20180926210000 +0300" channel="9HD">
+    <title lang="he">יום. מהדורה מרכזית</title>
+    <desc lang="he">מהדורת החדשות המרכזית של ערוץ 9. כל אירועי הפוליטיקה, הכלכלה, החברה והתרבות בארץ ובחו''ל(n)</desc>
+  </programme>
+  <programme start="20180926210000 +0300" stop="20180926213000 +0300" channel="9HD">
+    <title lang="he">(ע) העם הנבחר</title>
+    <desc lang="he">עונה חדשה של תכנית פוליטיקה על כל מה שקורה בכנסת בהנחיית אנה רייבה ואיגור לרנר(n)</desc>
+  </programme>
+  <programme start="20180926213000 +0300" stop="20180926222000 +0300" channel="9HD">
+    <title lang="he">עקבות. סמל התמימות</title>
+    <desc lang="he">סדרה בלשית. סמל התמימות: מישהו רוצח בחורות ומשאיר בשיערן פרחי חבצלת. כל יום בחורה חדשה ופרח חדש.(n)</desc>
+  </programme>
+  <programme start="20180926222000 +0300" stop="20180926231000 +0300" channel="9HD">
+    <title lang="he">עקבות. מחשבות מסוכנות</title>
+    <desc lang="he">סדרה בלשית. מחשבות מסוכנות: מישהו רצח גבר, וקשר על צווארו צעיף אדום של פיונרים. מסתבר, שלפני כ-24 שנים הנרצח העיד במשפט נגד הרוצח, המכונה ''מדריך''(n)</desc>
   </programme>
   <programme start="20180920090000 +0300" stop="20180920110000 +0300" channel="egoTotal">
     <title lang="he">השידורים יתחדשו בשעה 11:00</title>
@@ -13535,31 +12649,75 @@
     <title lang="he">אף פעם לא מאוחר לחלום</title>
     <desc lang="he">ספיישל דוקומנטרי על ההכנות של חיים גוזלי, מוותיקי לוחמי הMMA בישראל, למה שאמור להיות קרב הפרישה שלו באירוע ההיסטורי של ארגון בלאטור בתל אביב כ' עב. ש.ח(n)</desc>
   </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="הופ! ילדות ישראלית">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
+  <programme start="20180926010000 +0300" stop="20180926013000 +0300" channel="egoTotal">
+    <title lang="he">Foursome 1</title>
   </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="הופ! ילדות ישראלית">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
+  <programme start="20180926013000 +0300" stop="20180926020000 +0300" channel="egoTotal">
+    <title lang="he">Foursome 2</title>
   </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="הופ! ילדות ישראלית">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
+  <programme start="20180926020000 +0300" stop="20180926024500 +0300" channel="egoTotal">
+    <title lang="he">פייט מאסטר</title>
+    <desc lang="he">חמישה לוחמי אומנויות לחימה משולבות יילחמו בזירה וינסו לשכנע את רנדי קוטור, פרנק שמרוק, גרג ג'קסון וג'ו וורן לצרף אותם לקבוצת הלוחמים שלהם, אצלם יתאמנו לקראת המאבק על תואר אלוף ליגת ה''פייט מאסטר''. כ' עב. ש.ח(n)</desc>
   </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="הופ! ילדות ישראלית">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
+  <programme start="20180926024500 +0300" stop="20180926033000 +0300" channel="egoTotal">
+    <title lang="he">פייט מאסטר</title>
+    <desc lang="he">ארבע לוחמי האם-אם-איי האגדתיים ממשיכים להיאבק בניהם על צירופם של הלוחמים המוצלחים ביותר ל'בית הלוחמים' שלהם, לקראת מאבקי ההמשך על תואר אלוף ליגת ה'פייט מאסטר'. כ' עב. ש.ח(n)</desc>
   </programme>
-  <programme start="20180919200000 +0300" stop="20180919210000 +0300" channel="הופ! ילדות ישראלית">
-    <title lang="he">ויהי ערב</title>
-    <desc lang="he">נפרדים מהשבת עם שירים וסיפורים רגועים לעת ערב ולקראת השינה(n)</desc>
-    <category lang="he">ילדים</category>
+  <programme start="20180926033000 +0300" stop="20180926041500 +0300" channel="egoTotal">
+    <title lang="he">פייט מאסטר</title>
+    <desc lang="he">שלב ההדחה מגיע לסיומו, חמשת הלוחמים האחרונים ילחמו על כניסה ל'בית הלוחמים' ומקום באחד ממחנות האימונים שבו יבחרו. כ' עב. ש.ח(n)</desc>
   </programme>
-  <programme start="20180919210000 +0300" stop="20180920020000 +0300" channel="הופ! ילדות ישראלית">
-    <title lang="he">רדיו ללה</title>
-    <desc lang="he">שירים ומנגינות ברצף לאורך כל הלילה(n)</desc>
-    <category lang="he">ילדים</category>
+  <programme start="20180926041500 +0300" stop="20180926060000 +0300" channel="egoTotal">
+    <title lang="he">בלאטור 2018</title>
+    <desc lang="he">במוקד הערב הקרב ברבע גמר טורניר המשקל הכבד של הארגון בין אגדת הMMA פדור אמילננקו לאלוף הUFC לשעבר פרנק מיר. ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926060000 +0300" stop="20180926090000 +0300" channel="egoTotal">
+    <title lang="he">השידורים יתחדשו בשעה 11:00</title>
+    <desc lang="he">השידורים יתחדשו בשעה 11:00(n)</desc>
+  </programme>
+  <programme start="20180926090000 +0300" stop="20180926110000 +0300" channel="egoTotal">
+    <title lang="he">השידורים יתחדשו בשעה 11:00</title>
+    <desc lang="he">השידורים יתחדשו בשעה 11:00(n)</desc>
+  </programme>
+  <programme start="20180926110000 +0300" stop="20180926115500 +0300" channel="egoTotal">
+    <title lang="he">אקספלוז'ן</title>
+    <desc lang="he">תכנית מגזין המביאה את הרגעים הגדולים מתוך IMPACT(n)</desc>
+  </programme>
+  <programme start="20180926115500 +0300" stop="20180926132500 +0300" channel="egoTotal">
+    <title lang="he">אימפקט - IMPACT</title>
+    <desc lang="he">אקשן ללא הפסקה עם מתאבקי הדור החדש של ארגון הפרו רסלינג הפופולרי ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926132500 +0300" stop="20180926150000 +0300" channel="egoTotal">
+    <title lang="he">אימפקט - IMPACT</title>
+    <desc lang="he">אקשן ללא הפסקה עם מתאבקי הדור החדש של ארגון הפרו רסלינג הפופולרי(n)</desc>
+  </programme>
+  <programme start="20180926150000 +0300" stop="20180926160000 +0300" channel="egoTotal">
+    <title lang="he">WCR פרו רסלינג</title>
+    <desc lang="he">ליגת ההאבקות World class wrestling מארה''ב ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926160000 +0300" stop="20180926165000 +0300" channel="egoTotal">
+    <title lang="he">אקספלוז'ן</title>
+    <desc lang="he">תכנית מגזין המביאה את הרגעים הגדולים מתוך IMPACT ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926165000 +0300" stop="20180926181500 +0300" channel="egoTotal">
+    <title lang="he">ערב אגרוף ישראלי</title>
+    <desc lang="he">ערב קרבות אגרוף קלאסי עם מיטב המתאגרפים הישראלים ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926181500 +0300" stop="20180926191000 +0300" channel="egoTotal">
+    <title lang="he">הקרבות הגדולים של TNA</title>
+    <desc lang="he">הקרבות הגדולים ביותר בתולדות ארגון הפרו רסלינג ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926191000 +0300" stop="20180926204000 +0300" channel="egoTotal">
+    <title lang="he">אימפקט - IMPACT</title>
+    <desc lang="he">אקשן ללא הפסקה עם מתאבקי הדור החדש של ארגון הפרו רסלינג הפופולרי ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926204000 +0300" stop="20180926224000 +0300" channel="egoTotal">
+    <title lang="he">בלאטור 2018</title>
+    <desc lang="he">בלאטור 205-במוקד הערב הכשרון הגדול של הארגון איי.ג'יי מקי פוגש את ג'ון טישיירה והקרב במשקל 185 בין רפאל לובאטו ג'וניור וג'ון סלטר ש.ח(n)</desc>
+  </programme>
+  <programme start="20180926224000 +0300" stop="20180926230000 +0300" channel="egoTotal">
+    <title lang="he">ראיון עם סקוט קוקר 2016</title>
+    <desc lang="he">רם גלבוע בראיון עם נשיא בלאטור סקוט קוקר לקראת האירוע של בלאטור בישראל כ' עב. ש.ח(n)</desc>
   </programme>
   <programme start="20180920020000 +0300" stop="20180920060000 +0300" channel="הופ! ילדות ישראלית">
     <title lang="he">רדיו ללה</title>
@@ -13835,116 +12993,6 @@
     <title lang="he">רדיו ללה</title>
     <desc lang="he">שירים ומנגינות ברצף לאורך כל הלילה(n)</desc>
     <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="!הופ">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="!הופ">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="!הופ">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="!הופ">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919201100 +0300" channel="!הופ">
-    <title lang="he">סמי הכבאי 11 9. אדלה דוהרת</title>
-    <desc lang="he">אדם מאחר והחניכים נוסעים בלעדיו ליום פעילות. אדלה הנחושה שיגיע בזמן למפגש, נוסעת במהירות וומאבדת שליטה על המכונית. סמי, אלביס ותום ב"וואלבי שתיים" מגיעים לעזרתם, ואדלה לומדת שתמיד חשוב לנהוג בזהירות(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919201100 +0300" stop="20180919202300 +0300" channel="!הופ">
-    <title lang="he">סמי הכבאי 8 10. טפוס הרים</title>
-    <desc lang="he">מנדי מחליטה שהיא רוצה להיות מטפסת הרים. כשהיא יוצאת עם הכיתה לביקור במרכז המבקרים בהר, היא מגלה שיש לה כישרון לכך, ומחליטה לטפס על הר אמיתי, אך מוצאת את עצמה על צוק מבודד ללא יכולת לרדת ממנו(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919202300 +0300" stop="20180919204400 +0300" channel="!הופ">
-    <title lang="he">קודי קא-פאו בלון קא-פאו!/סהרורי קא-פאו!</title>
-    <desc lang="he">העז של אדון צ'ן נעלמה וקודי והחברים יוצאים למצוא אותה. הם לומדים שאם יש משהו שלא יודעים הכי טוב זה לשאול; קודי והחברים מגלים שמוגו שהולך מתוך שינה. הם מנסים לחלץ אותו ולומדים שאסור לוותר גם כשקשה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919204400 +0300" stop="20180919205600 +0300" channel="!הופ">
-    <title lang="he">חדש! מטוסי על, צוותי משימה 9. דרמת הברווזים</title>
-    <desc lang="he">ג'ט טס לבאטאמבנג שבקמבודיה, כדי למסור משרוקית ברווזים לילדה ששמה סולינה. כשהברווזים בורחים, סקיי מגרילה את צוות סיירי המשטרה של פול, כדי שיעזרו לה לאתר את חיות הבר המתנודדות(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919205600 +0300" stop="20180919210900 +0300" channel="!הופ">
-    <title lang="he">מטוסי על 9. מרוץ נגד הזמן</title>
-    <desc lang="he">ג'ט טס לקניה כדי למסור ללורנה את נעלי הריצה שלה אבל במהלך המרוץ גורת הגנו הקטנה איבדה את העדר ובלו מגיע לעזרה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919210900 +0300" stop="20180919213400 +0300" channel="!הופ">
-    <title lang="he">הרפתקאות פיטר הארנב הסיפור על המפה של בנג'מין</title>
-    <desc lang="he">כדי שבנג'מין לא ילך לאיבוד, לילי מציירת מפה שבה מסומן הבית שלו, אולם המפה נופלת לידיו של טוד השועל; החדף הרגזן מגיע לבית הארנבים להתלונן על היעלמות הפרחים, וקוטן מחליטה לעשות ממנו בובת משחק(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919213400 +0300" stop="20180919215600 +0300" channel="!הופ">
-    <title lang="he">ריינג'ר רוב צרות בנווה המדבר של שמורת שמי התכלת</title>
-    <desc lang="he">במדבר סערת חול, רוב בונה למבקרים מבצר חול שיגן עליהם אך הוא לא שם לב שהוא השתמש בכל המים של נווה המדבר; סטומפר ורוב מגלים שבשמורה יש פח זועם, ויוצאים ללכוד אותו לפניי שיגיע כוכב הטלוויזיה ניק טבע(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919215600 +0300" stop="20180919220700 +0300" channel="!הופ">
-    <title lang="he">מפלצות העל 16. הנרי במגפיים</title>
-    <desc lang="he">אנימציה. 16. הנרי במגפיים: כשלובו קורא את הספר החתול במגפיים לאורו של הירח המלא, כוח איש הזאב שלו מביא לחיים את כל הדמויות בסיפור(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919220700 +0300" stop="20180919221900 +0300" channel="!הופ">
-    <title lang="he">מפלצות העל 15. כדאי להתאמן</title>
-    <desc lang="he">אנימציה. 15. דכדאי להתאמן: לדראק יש ערכת קסמים חדשה והוא רוצה להעלות מופע, אבל לא מתאמן על הקסמים, ומופע הקסמים המרהיב של דראק הופך לבלגן מרהיב(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919221900 +0300" stop="20180919223000 +0300" channel="!הופ">
-    <title lang="he">רון ברווזון 9. כלב דג</title>
-    <desc lang="he">מצויר. 9. כלב דג: רון נחוש לטפל בחיית מחמד, לכן הוא מביא כלב-דג. מרוב דאגה הוא מאכיל אותו עד שהוא נהיה גדול יותר מהבית. נועה וצ'יקו עוזרים לו לעשות לכלב דג התעמלות(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919223000 +0300" stop="20180919224000 +0300" channel="!הופ">
-    <title lang="he">סמי הכבאי 11 9. אדלה דוהרת</title>
-    <desc lang="he">אדם מאחר והחניכים נוסעים בלעדיו ליום פעילות. אדלה הנחושה שיגיע בזמן למפגש, נוסעת במהירות וומאבדת שליטה על המכונית. סמי, אלביס ותום ב"וואלבי שתיים" מגיעים לעזרתם, ואדלה לומדת שתמיד חשוב לנהוג בזהירות(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919224000 +0300" stop="20180919225100 +0300" channel="!הופ">
-    <title lang="he">סמי הכבאי 8 10. טפוס הרים</title>
-    <desc lang="he">מנדי מחליטה שהיא רוצה להיות מטפסת הרים. כשהיא יוצאת עם הכיתה לביקור במרכז המבקרים בהר, היא מגלה שיש לה כישרון לכך, ומחליטה לטפס על הר אמיתי, אך מוצאת את עצמה על צוק מבודד ללא יכולת לרדת ממנו(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919225100 +0300" stop="20180919230200 +0300" channel="!הופ">
-    <title lang="he">מולי וצומי 2 (ש"ס) 7. משיכות חבל</title>
-    <desc lang="he">שמשון מתאמן לקראת תחרות משיכות חבל. מולי וצומי מתנדבים לעזור לו באימון וצומי לומד איך מנצחים בצורה יפה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919230200 +0300" stop="20180919231000 +0300" channel="!הופ">
-    <title lang="he">מולי וצומי (ש"ס) 11. משעמם לי</title>
-    <desc lang="he">מולי עסוק בבישולים, וצומי מוצא את עצמו לבד לגמרי ובלי שום דבר מעניין לעשות. כל הניסיונות שלו להתגבר על השעמום נכשלים, אז הוא מחליט להתקשר לדודה ציפי כדי לבלות איתה. איזו הפתעה תחכה לו כשציפי תגיע?(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919231000 +0300" stop="20180919232100 +0300" channel="!הופ">
-    <title lang="he">בוב הבנאי 20 27. מקום בטוח לדיזי</title>
-    <desc lang="he">אנימציה. 27. מקום בטוח לדיזי: בוב והצוות בונים כספת במרתף של גורד-השחקים, ודיזי ננעלת בתוכה. הבעיה היא שדיזי היא היחידה שיודעת את הקוד שפותח את הכספת(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919232100 +0300" stop="20180919233200 +0300" channel="!הופ">
-    <title lang="he">בוב הבנאי 20 26. ההפתעה הגדולה של בוב</title>
-    <desc lang="he">אנימציה. 26. ההפתעה הגדולה של בוב: ארגז גדול מגיע, וסקופ חושב שמדובר במתנת יום ההולדת של וונדי לבוב. הוא מנסה להסתיר אותו מבוב וגורם לצרות(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919233200 +0300" stop="20180919234300 +0300" channel="!הופ">
-    <title lang="he">סימון 11. הגיטרה+לסיע לרופא</title>
-    <desc lang="he">פרק 11. סיימון מוצא את הגיטרה הישנה של אמו. תחילה הוא מסרב ללמוד לנגן. כשהוא מתרצה ולומד קצת, הוא מחבר שיר נחמד וכולם מנגנים אותו יחד; הרופא מגיע לביתו של סיימון כדי לתת לו ולאדם חיסון(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919234300 +0300" stop="20180919235900 +0300" channel="!הופ">
-    <title lang="he">מיכל הקטנה והמפלצות (ש"ס) 9. הלוחשת לקופסאות</title>
-    <desc lang="he">לבו יש קופסת לחשים קסומה, שמונעת ממנה להשמיע בקול מילים לא מנומסות. אבל הקופסה התקלקלה, ועכשיו רק מיכל הקטנה יכולה ללמד את בו איך שומרים על איפוק(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919235900 +0300" stop="20180920030000 +0300" channel="!הופ">
-    <title lang="he">נשוב לשדר ב-05:00</title>
-    <desc lang="he">נשוב לשדר ב-05:00(n)</desc>
   </programme>
   <programme start="20180920030000 +0300" stop="20180920050000 +0300" channel="!הופ">
     <title lang="he">נשוב לשדר ב-05:00</title>
@@ -14397,70 +13445,6 @@
   <programme start="20180923030000 +0300" stop="20180923040000 +0300" channel="!הופ">
     <title lang="he">נשוב לשדר ב-05:11</title>
     <desc lang="he">נשוב לשדר ב-05:11(n)</desc>
-  </programme>
-  <programme start="20180919000000 +0300" stop="20180919040000 +0300" channel="בייבי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="בייבי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919100000 +0300" channel="בייבי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919100000 +0300" stop="20180919140000 +0300" channel="בייבי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919140000 +0300" stop="20180919180000 +0300" channel="בייבי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="בייבי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919203000 +0300" channel="בייבי">
-    <title lang="he">מנגינות הערב של בייבי</title>
-    <desc lang="he">לילה טוב דובון; שירים ראשונים; קונצ'רטינו; בייבי אלבום; חלום באמצע היום; שירים ראשונים; פים ופימבה; סיפור ציור(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919203000 +0300" stop="20180919210000 +0300" channel="בייבי">
-    <title lang="he">חלומות מתוקים (בייבי)</title>
-    <desc lang="he">לילה טוב דובון; קונצ'רטינו; שירים ראשונים; ענקים קטנטנים; שלגונים; שירים ראשונים; שרה וציף(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919213000 +0300" channel="בייבי">
-    <title lang="he">חיבוקי לילה טוב</title>
-    <desc lang="he">צמר; לילה טוב דובון; שירים ראשונים; תולי; אוקיינוס; הנחל(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919213000 +0300" stop="20180919220000 +0300" channel="בייבי">
-    <title lang="he">ליל חלומות</title>
-    <desc lang="he">ירח; הייתי רוצה; כדורון(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919220000 +0300" stop="20180919223000 +0300" channel="בייבי">
-    <title lang="he">ירח וכוכבים</title>
-    <desc lang="he">חלום באמצע היום; העולם המופלא; שמיים; שירים ראשונים; אוקיינוס(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919223000 +0300" stop="20180919230000 +0300" channel="בייבי">
-    <title lang="he">מנגינות הלילה של בייבי</title>
-    <desc lang="he">כדורון; ירח; הייתי רוצה(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919230000 +0300" stop="20180919233000 +0300" channel="בייבי">
-    <title lang="he">חלומות מתוקים (בייבי)</title>
-    <desc lang="he">פרחים; שירים ראשונים; חלומות; שירים ראשונים; הייתי רוצה(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919233000 +0300" stop="20180920000000 +0300" channel="בייבי">
-    <title lang="he">חיבוקי לילה טוב</title>
-    <desc lang="he">העולם המופלא; כדורון; שמיים; פנס הקסם(n)</desc>
-    <category lang="he">ילדים</category>
   </programme>
   <programme start="20180920000000 +0300" stop="20180920003000 +0300" channel="בייבי">
     <title lang="he">ליל חלומות</title>
@@ -15261,77 +14245,6 @@
     <title lang="he">מלילה ליום</title>
     <desc lang="he">שירים ראשונים; שמיים; חלומות(n)</desc>
     <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919030000 +0300" stop="20180919060000 +0300" channel="ניקולדיאון">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="ניקולדיאון">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="ניקולדיאון">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="ניקולדיאון">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919202300 +0300" channel="ניקולדיאון">
-    <title lang="he">בובספוג 1 פרק 12</title>
-    <desc lang="he">אנימציה. פרק 12: בובספוג לוקח את הבת של מר קראב לנשף הסיום ומשום מה מסתבך. בובספוג וסקווידוויד מתחרים אחד בשני מי יהיה עובד החודש של מסעדת הסרטן הפריך וגורמים רק לצרות. כ' וד' לעב'(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919202300 +0300" stop="20180919204700 +0300" channel="ניקולדיאון">
-    <title lang="he">בובספוג 1 פרק 13</title>
-    <desc lang="he">אנימציה. פרק 13: בובספוג מחליט להפתיע ומגיע למסיבה של מר קראב בתחפושת ההולנדי המעופף. מאוחר יותר הוא נותן לסקווידוויד לשמור על גרי, אבל סקווידוויד מתרשל בתפקידו. כ' וד' לעב'(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919204700 +0300" stop="20180919210900 +0300" channel="ניקולדיאון">
-    <title lang="he">הרפתקאות הסוכן הנרי 5. שיחן הדגים/זיכרונות בשירותים</title>
-    <desc lang="he">שווז ממציא קסדה שמאפשרת לשוחח עם דגים. ריי והנרי מבטיחים להחזיר דג הביתה בתנאי שיעניק להם שלוש משאלות; החברים נתקעים בשירותים של מסעדה ומחליטים להעביר את הזמן בהעלאת זיכרונות קשים מן העבר(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919210900 +0300" stop="20180919213200 +0300" channel="ניקולדיאון">
-    <title lang="he">הרפתקאות הסוכן הנרי 6. סושי-סיטר/פייפרפלצת</title>
-    <desc lang="he">ריי מוצא עבודה צדדית כדי לממן אסלה משוכללת. הנרי מחליף אותו במשמרת והעניינים מסתבכים; פייפר רוצה להיכנס לכושר כדי להתקבל לנבחרת המעודדות. ריי נותן לה פיתרון מפוקפק(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919213200 +0300" stop="20180919215500 +0300" channel="ניקולדיאון">
-    <title lang="he">הרעשנים 2 37. קומיקס להמונים/חיי-כלב</title>
-    <desc lang="he">ילדים. 37. לינקולן וקלייד משתתפים בתחרות חוברות-קומיקס של אייס סאבי. המנהל האגינס מחרים להם את החוברת ונותן להם ריתוק; לאנה מוצאת כלבלב אבוד בפארק ומביאה אותו הביתה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919215500 +0300" stop="20180919221900 +0300" channel="ניקולדיאון">
-    <title lang="he">הרעשנים 2 38. פה מלוכלך/אהבה באוויר</title>
-    <desc lang="he">פרק 38. לילי עומדת לפני ריאיון חשוב מאוד לגן-ילדים אקסקלוסיבי. לפני הריאיון היא אומרת מילה לא יפה; אל הבית מגיע מכתב-אהבה ממעריץ סודי, והוא ממוען ל"ל' רעש". כל אחד בטוח שהמכתב מיועד לו(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919221900 +0300" stop="20180919224100 +0300" channel="ניקולדיאון">
-    <title lang="he">בייבלייד 2, חדש! 54. דריין פפניר! מסתחררים!</title>
-    <desc lang="he">כשהקרב מול סאנבט יונייטד עומד להתחיל, בי סי סול מאחרת מבחנים פנימיים כדי לבחור מי ישתתף בקרב הקרוב. מי שרוצה סיכוי לייצג את המועדון, יצטרך להילחם מול הבליידר הכי טוב של הקבוצה של הקפטן(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919224100 +0300" stop="20180919230300 +0300" channel="ניקולדיאון">
-    <title lang="he">בייבלייד 2, חדש! 55. רוח מערבולת! טמפסט וו'ייברון</title>
-    <desc lang="he">מאות קילומטרים מהבית, וולט ורנטארו מקבלים הזדמנות להילחם נגד מישהו מוכר מהבית. שניהם נרגשים להשוויץ בכישורים החדשים של הבליידים שלהם, אבל וולטריאק ורוקטאבור לא היחידים שהתפתחו(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919230300 +0300" stop="20180919232600 +0300" channel="ניקולדיאון">
-    <title lang="he">בובספוג 3 (מתורגם) פרק 41</title>
-    <desc lang="he">ילדים. פרק 41: מר פלנקטון רוצה לחוות כיצד זה להיות מר קראב ולשם כך משתמש במכשיר החלפת החיים שלו. בובספוג היה רוצה להיות מציל בשונית כמו לארי ומשאלתו מתגשמת. כ' עב'(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919232600 +0300" stop="20180919234900 +0300" channel="ניקולדיאון">
-    <title lang="he">בובספוג 3 (מתורגם) פרק 42</title>
-    <desc lang="he">אנימציה. פרק 42: סקווידוויד מתעקש להצטרף למועדון של בובספוג ופטריק וכך השלושה מוצאים את עצמם אבודים ביער אצות. בובספוג מצליח לאלף סוסת ים פראית אבל מר קראב דורש ממנו להיפטר ממנה. כ' עב'(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919234900 +0300" stop="20180920001100 +0300" channel="ניקולדיאון">
-    <title lang="he">בובספוג 3 (מתורגם) פרק 43</title>
-    <desc lang="he">בובספוג נדהם לגלות שסקווידוורד מעולם לא טעם קציצת סרטן. הוא מצליח לשכנע אותו לקחת ביס אחד וסקווידוורד מגלה להפתעתו שזה טעים מאוד. הוא לא מודה בכך בפני בובספוג אבל אחר כך מנסה להשיג קציצה נוספת. כ' עב(n)</desc>
-    <category lang="he">סדרה</category>
   </programme>
   <programme start="20180920001100 +0300" stop="20180920003500 +0300" channel="ניקולדיאון">
     <title lang="he">בובספוג 3 (מתורגם) פרק 44</title>
@@ -16158,77 +15071,6 @@
     <desc lang="he">אנימציה. פרק 47: מר קראב עושה פרסומת טלוויזיה לסרטן הפריך ובובספוג מפתח חלומות של גדולה ופרסום. סקווידוויד מתפטר מהמסעדה ומוצא את עצמו ברחוב. בובספוג אוסף אותו אל ביתו ומטפל בו. כ' וד' לעב'(n)</desc>
     <category lang="he">סדרה</category>
   </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="דיסני">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="דיסני">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="דיסני">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200000 +0300" channel="דיסני">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200000 +0300" stop="20180919202500 +0300" channel="דיסני">
-    <title lang="he">חוקי המרפי של מיילו פרק 18</title>
-    <desc lang="he">דייט לא דייט: שרה יוצאת לדייט-לא-דייט, ומרטין לוקח את מיילו, את זאק ואת מליסה לטיול סקי; אי הדקוטים האבודים: דקוטה חוזר בזמן להציל את קוונדיש ומגלה אי מלא בדקוטים(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919202500 +0300" stop="20180919203500 +0300" channel="דיסני">
-    <title lang="he">סטאר נגד כוחות הרשע 3 18. סטארפארי</title>
-    <desc lang="he">הרפתקאות. 18. סטארפארי: סטאר מנסה לשכנע מומחית מלכותית לשנות את היחס למפלצות(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919203500 +0300" stop="20180919210000 +0300" channel="דיסני">
-    <title lang="he">המופלאה: הרפתקאות ליידי באג 2 6. ריפוסט</title>
-    <desc lang="he">הרפתקאות. 6. ריפוסט: מרינט מנסה בכל כוחה להתקבל לנבחרת הסיף של אדריאן, אבל הכול משתנה כשהיא פוגשת שם את קגאמי(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919210000 +0300" stop="20180919212500 +0300" channel="דיסני">
-    <title lang="he">אנדי 2 17. היום המושלם 2.0</title>
-    <desc lang="he">נוער. 17. היום המושלם 2.0: אנדי, באפי וסיירוס מנסים לשחזר את היום ה מושלם ביותר שהיה להם יחד, אך נתקלים במכשולים רבים בדרך להשגת המטרה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919212500 +0300" stop="20180919215000 +0300" channel="דיסני">
-    <title lang="he">הבית של רייבן 6. הרפתקאות אמהיות</title>
-    <desc lang="he">קומי. 6. הרפתקאות אמהיות: הילדים משכנעים את צ'לסי ורייבן שהם בוגרים מספיק להישאר לבד בבית בזמן ששתיהן יוצאות לבלות(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919215000 +0300" stop="20180919221000 +0300" channel="דיסני">
-    <title lang="he">קייסי אנדרקאבר 2 8. האמת הכואבת</title>
-    <desc lang="he">הרפתקאות. 8. האמת הכואבת: ארני מנסה להרשים את הארגון ביכולות המדעיות שלו וממציא נסיוב אמת. העניינים מסתבכים כאשר קייסי שותה ממנו בטעות(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919221000 +0300" stop="20180919223000 +0300" channel="דיסני">
-    <title lang="he">הארלי באמצע 13. אוטו-הארלי</title>
-    <desc lang="he">הרפתקאות. 13. אוטו-הארלי: ההמצאה החדשה של הארלי, ה"אוטו-הארלי" היא ריקשה שמשמשת להסעת ילדים ברחבי העיירה, אבל היא נאלצת לחלוק בה עם איתן(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919223000 +0300" stop="20180919225500 +0300" channel="דיסני">
-    <title lang="he">אנדי 2 17. היום המושלם 2.0</title>
-    <desc lang="he">נוער. 17. היום המושלם 2.0: אנדי, באפי וסיירוס מנסים לשחזר את היום ה מושלם ביותר שהיה להם יחד, אך נתקלים במכשולים רבים בדרך להשגת המטרה(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919225500 +0300" stop="20180919232000 +0300" channel="דיסני">
-    <title lang="he">אנדי 2 מסיבת הבר מצווה של סיירוס, חלק 1</title>
-    <desc lang="he">אחרי כל ההכנות והמתח, סיירוס סוף סוף חוגג בר מצווה. האירוע עצמו מלא בנקודות ציון חשובות, ולא רק עבור סיירוס(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919232000 +0300" stop="20180919234500 +0300" channel="דיסני">
-    <title lang="he">ביזארדבארק 17. אימא! די!</title>
-    <desc lang="he">קומי. 17. אימא! די!: פייג' מרגישה שהאהבה של אימא שלה קצת חונקת ומביכה אותה, וזה מגיע לשיא כשהיא מציעה לה ולפרנקי למלצר במסעדה וגם לשיר לפני הלקוחות(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919234500 +0300" stop="20180920001000 +0300" channel="דיסני">
-    <title lang="he">הארלי באמצע 3 8. עוזרים נוראים</title>
-    <desc lang="he">הארלי רוצה להרשים את המורה שאמורה לבחור מי ישתתף בתחרות "גלדיאטורים של דמיון", ולואי וביסט הורסים לה את הסיכויים. סבתא שולחת כסף למשפחה לקניית שולחן משחק(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
   <programme start="20180920001000 +0300" stop="20180920003500 +0300" channel="דיסני">
     <title lang="he">ליב ומאדי 3 1. ספארפ עם רוני</title>
     <desc lang="he">השקת עונה חדשה לסדרת הלהיט שכבשה את העולם! ספארפ עם רוני: מאדי ודיגי הולכים ביחד לפסטיבל וכל אחד מביא איתו מישהו אחר, כדי לעצבן זו את זה. ליב מנסה לעזור לאנדי להתגבר על הפרידה שלה(n)</desc>
@@ -17052,152 +15894,6 @@
   <programme start="20180925053000 +0300" stop="20180925060000 +0300" channel="דיסני">
     <title lang="he">פיניאס ופרב 2 פרק 24</title>
     <desc lang="he">הרפתקאות. 24. רק עוברים פה: פיניאס ופרב ממציאים מכשיר שעובר דרך קירות. היום הגדול של קנדיס: פיניאס ופרב עוזרים לתכנן את החתונה של דודתם. דופנשמירץ' ממציא מכונה שתהפוך את כולם לשמנים. ד' עב(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919040000 +0300" stop="20180919060000 +0300" channel="HOT לולי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר מחר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919060000 +0300" stop="20180919120000 +0300" channel="HOT לולי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919120000 +0300" stop="20180919180000 +0300" channel="HOT לולי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919180000 +0300" stop="20180919200100 +0300" channel="HOT לולי">
-    <title lang="he">יום כיפור</title>
-    <desc lang="he">יום כיפור - נשוב לשדר ב-20:00(n)</desc>
-  </programme>
-  <programme start="20180919200100 +0300" stop="20180919200300 +0300" channel="HOT לולי">
-    <title lang="he">אני אוהב חיות</title>
-    <desc lang="he">אני אוהב חיות היא סדרת טבע על אורח חייהן של חיות שונות. בכל פרק אנו פוגשים חיה אחת, טקסט קצר וקטעי וידאו מראים ומספרים לנו על פועלה(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919200300 +0300" stop="20180919200800 +0300" channel="HOT לולי">
-    <title lang="he">אני אוהב חיות</title>
-    <desc lang="he">אני אוהב חיות היא סדרת טבע על אורח חייהן של חיות שונות. בכל פרק אנו פוגשים חיה אחת, טקסט קצר וקטעי וידאו מראים ומספרים לנו על פועלה(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919200800 +0300" stop="20180919201300 +0300" channel="HOT לולי">
-    <title lang="he">גבע וגולי</title>
-    <desc lang="he">הכירו את גבע וגולי, חברים טובים שחיים בעולם הבנוי מקוביות עץ. בעולם של גבע וגולי הכל אפשרי! הם יוצרים מבנים קטנים, בעלי חיים, כלי רכב, ואף משנים צורה בעצמם(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919201300 +0300" stop="20180919201800 +0300" channel="HOT לולי">
-    <title lang="he">גבע וגולי</title>
-    <desc lang="he">הכירו את גבע וגולי, חברים טובים שחיים בעולם הבנוי מקוביות עץ. בעולם של גבע וגולי הכל אפשרי! הם יוצרים מבנים קטנים, בעלי חיים, כלי רכב, ואף משנים צורה בעצמם(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919201800 +0300" stop="20180919202100 +0300" channel="HOT לולי">
-    <title lang="he">בומבה</title>
-    <desc lang="he">התוכנית מורכבת ממגוון צבעים, דמויות ומוזיקה. התוכנית משלבת אלמנטים חינוכיים עם קטעים משעשעים(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919202100 +0300" stop="20180919203100 +0300" channel="HOT לולי">
-    <title lang="he">בומבה מסביב לעולם</title>
-    <desc lang="he">בומבה הליצן העליז מחפש אחר חברו בומבלו במחוזות רחוקים. בומבה הסקרן לומד אודותיו של כל מקום בו הוא מבקר. במסעו הוא רוקם חוויות וחברויות חדשות שכן הוא ניחן בחוש הומור ומשרה שמחה וצחוק בין כל חבריו(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919203100 +0300" stop="20180919203800 +0300" channel="HOT לולי">
-    <title lang="he">צ'ארלי דוב קטן</title>
-    <desc lang="he">צ'ארלי הוא דובון צעצוע חמוד, שובב וסקרן. מדי פרק, בעזרת דמיונו המפותח הוא וחבריו נקלעים להרפתקאות מופלאות. הרפתקאות אשר מלמדות אותו דברים חשובים לגבי דברים שונים בחיים(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919203800 +0300" stop="20180919204100 +0300" channel="HOT לולי">
-    <title lang="he">טיגה וטוגה</title>
-    <desc lang="he">דמיינו עולם בו לכל חפץ יש צליל המחכה להתגלות ולכל יצור יש שיר משלו. ברוכים הבאים לעולמם המוסיקלי של טיגה וטוגה, עולם החושף שלל סגנונות מוסיקליים ויצירות עליהן טיגה וטוגה מנצחים בסימפונייה מהפנטת!(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919204100 +0300" stop="20180919205100 +0300" channel="HOT לולי">
-    <title lang="he">עוד סיפור</title>
-    <desc lang="he">סיפורים קצרים ומקוריים מאת מירי מאיירס, המולחנים במוסיקה מיוחדת. בכל פרק נקרא הסיפור פעמיים, כשבפעם השנייה הוא במסגרת של ספר ועם כותרות(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919205100 +0300" stop="20180919205600 +0300" channel="HOT לולי">
-    <title lang="he">קטנטנים בחווה</title>
-    <desc lang="he">סדרה העוקבת אחר גורי חיות חמודים בחווה. בכל פרק יוצאים למסע לחפש גור של חיה אחרת!(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919205600 +0300" stop="20180919210400 +0300" channel="HOT לולי">
-    <title lang="he">עולם החול</title>
-    <desc lang="he">מה קורה בארגז החול כשהילדים הולכים הביתה? כלום. כלום? זה לא נכון מכוון שאז שורש ואגתה מתעוררים וחווים את ההרפתקאות הליליות שלהם. הצטרפו אליהם ותהנו(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919210400 +0300" stop="20180919211000 +0300" channel="HOT לולי">
-    <title lang="he">סיפור</title>
-    <desc lang="he">שירים נעימים לילדים המלווים במוסיקה ומותאמים לסדר היום של הילד(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919211000 +0300" stop="20180919211700 +0300" channel="HOT לולי">
-    <title lang="he">מולאנג</title>
-    <desc lang="he">מולאנג ופיו פיו, הם שני חברים טובים מאוד אך שונים. מולאנג הוא ארנב יוצא דופן, שמח ונלהב וחברו, פיו פיו, הוא אפרוח ביישן ורגשן. למרות ההבדלים ביניהם, יש ביניהם ידידות נפלאה(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919211700 +0300" stop="20180919214500 +0300" channel="HOT לולי">
-    <title lang="he">הגן הקסום 2</title>
-    <desc lang="he">עונה שניה לחברים האהובים מהגן הקסום(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919214500 +0300" stop="20180919214900 +0300" channel="HOT לולי">
-    <title lang="he">חיות וחרוזים</title>
-    <desc lang="he">סדרת טבע שעורכת לפעוט הכרות עם חיות בר, חיות משק חי, חיות בית ואחרות, והכל לצלילי שירים מקוריים ותמונות מרהיבות(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919214900 +0300" stop="20180919215700 +0300" channel="HOT לולי">
-    <title lang="he">פוקויו</title>
-    <desc lang="he">פוקויו הסקרן הוא קצת חוקר, קצת מדען ותמיד משעשע. הוא חולק את עולמו עם חבריו והם לצידו בכל מצב. הצופים מתחברים לעולמו של פוקויו, לומדים, צוחקים, טועים ומתגברים יחד איתו(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919215700 +0300" stop="20180919220200 +0300" channel="HOT לולי">
-    <title lang="he">בומבה</title>
-    <desc lang="he">התוכנית מורכבת ממגוון צבעים, דמויות ומוזיקה. התוכנית משלבת אלמנטים חינוכיים עם קטעים משעשעים(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919220200 +0300" stop="20180919222000 +0300" channel="HOT לולי">
-    <title lang="he">בומבה מסביב לעולם</title>
-    <desc lang="he">בומבה הליצן העליז מחפש אחר חברו בומבלו במחוזות רחוקים. בומבה הסקרן לומד אודותיו של כל מקום בו הוא מבקר. במסעו הוא רוקם חוויות וחברויות חדשות שכן הוא ניחן בחוש הומור ומשרה שמחה וצחוק בין כל חבריו(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919222000 +0300" stop="20180919222500 +0300" channel="HOT לולי">
-    <title lang="he">קפיץ קפוץ</title>
-    <desc lang="he">סדרת אנימציה בטכניקת פלסטלינה מבית היוצר של הופ! בכל פרק נפגשים 3 כדורים בצבעים שונים ומשחקים אחד עם השני: מחליפים צורתם, מתחבאים האחד לשני ובסופו של דבר יוצרים צורה אחת משותפת(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919222500 +0300" stop="20180919223000 +0300" channel="HOT לולי">
-    <title lang="he">כדוריקים</title>
-    <desc lang="he">הכדוריקים הם יצורים טובי לב והם תמיד אוהבים ליהנות. הם בעלי אופי ייחודי ושונה זה מזה ולכל אחד ישנם אתגרים משלו. הצטרפו להרפתקה קצרה, בה נלמד מילים חדשות ודברים חדשים על העולם ועל עצמנו(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919223000 +0300" stop="20180919223500 +0300" channel="HOT לולי">
-    <title lang="he">כדוריקים</title>
-    <desc lang="he">הכדוריקים הם יצורים טובי לב והם תמיד אוהבים ליהנות. הם בעלי אופי ייחודי ושונה זה מזה ולכל אחד ישנם אתגרים משלו. הצטרפו להרפתקה קצרה, בה נלמד מילים חדשות ודברים חדשים על העולם ועל עצמנו(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919223500 +0300" stop="20180919224300 +0300" channel="HOT לולי">
-    <title lang="he">עולם החול</title>
-    <desc lang="he">מה קורה בארגז החול כשהילדים הולכים הביתה? כלום. כלום? זה לא נכון מכוון שאז שורש ואגתה מתעוררים וחווים את ההרפתקאות הליליות שלהם. הצטרפו אליהם ותהנו(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919224300 +0300" stop="20180919224800 +0300" channel="HOT לולי">
-    <title lang="he">סיפור</title>
-    <desc lang="he">שירים נעימים לילדים המלווים במוסיקה ומותאמים לסדר היום של הילד(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919224800 +0300" stop="20180919225800 +0300" channel="HOT לולי">
-    <title lang="he">שמיכת החיות</title>
-    <desc lang="he">שמיכת החיות היא שמיכה מופלאה, ועליה רקומות חיות רבות ומשעשעות. החיות נכונות לכל אתגר ותמיד עוזרות זו לזו להציל את המצב(n)</desc>
-    <category lang="he">סדרה</category>
-  </programme>
-  <programme start="20180919225800 +0300" stop="20180919230400 +0300" channel="HOT לולי">
-    <title lang="he">תנועה וצליל</title>
-    <desc lang="he">סדרה המסייעת לתינוקות לגלות את העולם סביבם. מוסיקה קלאסית מלווה מגוון רחב של צעצועי משחק שונים, יצירת קשת של צבעים, צורות ותנועה(n)</desc>
-    <category lang="he">ילדים</category>
-  </programme>
-  <programme start="20180919230400 +0300" stop="20180919231200 +0300" channel="HOT לולי">
-    <title lang="he">מולאנג</title>
-    <desc lang="he">מולאנג ופיו פיו, הם שני חברים טובים מאוד אך שונים. מולאנג הוא ארנב יוצא דופן, שמח ונלהב וחברו, פיו פיו, הוא אפרוח ביישן ורגשן. למרות ההבדלים ביניהם, יש ביניהם ידידות נפלאה(n)</desc>
     <category lang="he">ילדים</category>
   </programme>
   <programme start="20180920000000 +0300" stop="20180920000500 +0300" channel="HOT לולי">
