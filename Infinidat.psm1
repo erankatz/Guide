@@ -1,11 +1,4 @@
-﻿ 
-#  $ibox2 = Get-Content C:\Users\erank\Desktop\ibox2.json | ConvertFrom-Json
-# #https://localhost:443/api/rest/events?sort=-timestamp&timestamp=ge:1633046400000&level=in:INFO&fields=timestamp,level,code,description&page_size=200&page=1
-# #https://172.16.103.84/api/rest/components/
-# 
-# $iBoxCred = Get-Credential
-# $filer = @{Name="DC_iBox01"; IP="172.16.103.94"}
-#
+
 
 
 function ToUnixTime
